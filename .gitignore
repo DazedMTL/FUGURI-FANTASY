@@ -8,4 +8,5 @@
 !*.7z
 !*.csv
 !.gitignore
+!README.md
 package.json
