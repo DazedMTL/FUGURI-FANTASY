@@ -1,5 +1,49 @@
 [
-null,
-{"id":1,"battlerName":"","characterIndex":0,"characterName":"belue","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"berue","traits":[],"initialLevel":1,"maxLevel":99,"name":"ベルエ","nickname":"","note":"<stand_picture:berue>","profile":""},
-{"id":2,"battlerName":"","characterIndex":0,"characterName":"kuroto","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"kuroto","traits":[],"initialLevel":1,"maxLevel":99,"name":"クロト","nickname":"","note":"<stand_picture:kuroto>","profile":""}
+    null,
+    {
+        "id": 1,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "belue",
+        "classId": 1,
+        "equips": [
+            1,
+            1,
+            2,
+            3,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "berue",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "ベルエ",
+        "nickname": "",
+        "note": "<stand_picture:berue>",
+        "profile": ""
+    },
+    {
+        "id": 2,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "kuroto",
+        "classId": 1,
+        "equips": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "kuroto",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "クロト",
+        "nickname": "",
+        "note": "<stand_picture:kuroto>",
+        "profile": ""
+    }
 ]
