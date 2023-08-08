@@ -2633,8 +2633,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "思い切ってお願いする",
-                                    "やめておく"
+                                    "I'll gather my courage and ask for a favor",
+                                    "I'll leave it alone"
                                 ],
                                 1,
                                 -1,
@@ -3489,8 +3489,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "エッチして下さい\\I[0]",
-                                    "なんでもありません"
+                                    "Please have sex with me \\I[0]",
+                                    "It's nothing"
                                 ],
                                 1,
                                 0,

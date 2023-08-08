@@ -11022,9 +11022,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ナンディシカ",
-                                    "薬草の洞窟",
-                                    "やめる"
+                                    "Why are you leaving?",
+                                    "Herb Cave",
+                                    "I'm quitting"
                                 ],
                                 2,
                                 0,
@@ -16414,8 +16414,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "お願いします\\I[0]",
-                                    "ごめんなさい・・"
+                                    "Please, \\I[0]",
+                                    "I'm sorry"
                                 ],
                                 1,
                                 0,
@@ -17223,8 +17223,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -17343,8 +17343,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

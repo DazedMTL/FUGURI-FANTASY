@@ -1852,8 +1852,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2281,8 +2281,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2725,8 +2725,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戻ります",
-                                    "まだこのまま・・"
+                                    "I will go back",
+                                    "Should I continue like this?"
                                 ],
                                 1,
                                 0,

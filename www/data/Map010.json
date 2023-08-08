@@ -3979,8 +3979,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4280,8 +4280,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4588,8 +4588,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6848,8 +6848,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "わかりました",
-                                    "逃げる"
+                                    "Understood",
+                                    "Run away"
                                 ],
                                 -1,
                                 0,
@@ -6945,8 +6945,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,
@@ -9845,8 +9845,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "わかりました",
-                                    "逃げる"
+                                    "Understood",
+                                    "Run away"
                                 ],
                                 -1,
                                 0,
@@ -9942,8 +9942,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 -1,
                                 0,
