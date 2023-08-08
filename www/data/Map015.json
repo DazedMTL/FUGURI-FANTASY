@@ -1297,14 +1297,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "寝ちゃってる・・・。"
+                                "Are you sleeping...? Is work tough for you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お仕事大変なのかな？"
+                                ""
                             ]
                         },
                         {
@@ -1372,7 +1372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなた・・・。"
+                                "You..."
                             ]
                         },
                         {
@@ -1398,7 +1398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わ、しゃべった・・・。"
+                                "I... spoke..."
                             ]
                         },
                         {
@@ -1415,7 +1415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "想い人がいるね。"
+                                "You have someone you love, don't you?"
                             ]
                         },
                         {
@@ -1432,7 +1432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "想い人・・・？"
+                                "Someone you love...?"
                             ]
                         },
                         {
@@ -1449,49 +1449,11 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうさ、心のどこかでひっかかってる"
+                                "Yeah, deep down in my heart... it's about that\nperson."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・あの人の事だよ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "berue",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひっかかって・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -1511,7 +1473,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（・・・クロト・・・）"
+                                "Caught..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "berue",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "(...Clot...)"
                             ]
                         },
                         {
@@ -1528,7 +1528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだよ。"
+                                "That's right."
                             ]
                         },
                         {
@@ -1554,49 +1554,11 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええっ！？"
+                                "Huh!? How did you know...!?"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何でわかるのっ・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "Actor3",
-                                6,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふふ、顔に書いてあるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -1616,14 +1578,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "向こうもあなたを想ってる。"
+                                "Hehe, it's written all over your face."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "少し覗いてみるかい？"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -1640,7 +1616,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼が今どこで何をしているか・・。"
+                                "They also have feelings for you. Would you like to\ntake a peek?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "Actor3",
+                                6,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I wonder where they are and what they're doing\nright now..."
                             ]
                         },
                         {
@@ -1657,7 +1657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え、覗けるの・・・？"
+                                "Eh, I can peek...?"
                             ]
                         },
                         {
@@ -1674,25 +1674,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ、可能さ。"
+                                "Ah, it's possible. However, the memories while\npeeping..."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただ覗いている間の記憶は・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -1712,7 +1712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "覗き終わったら消えてしまうよ。"
+                                "Once you finish peeping, it will disappear."
                             ]
                         },
                         {
@@ -1729,7 +1729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え、覗いても記憶なくなっちゃうの？"
+                                "Eh, if I peek, will my memories disappear?"
                             ]
                         },
                         {
@@ -1746,7 +1746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それじゃ私覗いても覗かなくても一緒じゃ・・・。"
+                                "Well, whether I peek or not, it's all the same..."
                             ]
                         },
                         {
@@ -1763,25 +1763,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいから、いいから。"
+                                "Enough, enough. There are people who benefit when\nyou peek!"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたが覗くと得する人もいるんだよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -1801,7 +1801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "察しろ！！"
+                                "Figure it out!!"
                             ]
                         },
                         {
@@ -1827,7 +1827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あうぅっ・・。"
+                                "Ahh..."
                             ]
                         },
                         {
@@ -1844,7 +1844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "で、覗くのかい？"
+                                "So, you want to peek?"
                             ]
                         },
                         {
@@ -1883,7 +1883,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よし、じゃあめをつぶって・・・。"
+                                "Alright, then close your eyes..."
                             ]
                         },
                         {
@@ -1900,7 +1900,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "意識を飛ばすよ・・・。"
+                                "I'll make you lose consciousness..."
                             ]
                         },
                         {
@@ -2069,31 +2069,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よし、これであんたは今彼の意識の中にいる。"
+                                "Alright, with this, you are now inside their\nconsciousness. You won't be able to speak, but you\nwill be merged with them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "喋れないだろうけど、一体化してるのさ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "Actor3",
-                                6,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "戻りたくなったらまたココにくればいい。"
+                                ""
                             ]
                         },
                         {
@@ -2110,7 +2093,24 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さ、いってらっしゃい。"
+                                "If you want to return, just come back here."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "Actor3",
+                                6,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Well then, have a safe journey."
                             ]
                         },
                         {
@@ -2140,14 +2140,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ちっ、覗けよ・・・！！"
+                                "Tch, go ahead and peek...!! That's what the\nheavenly voice said."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "って天の声が聞こえたよ。"
+                                ""
                             ]
                         },
                         {
@@ -2242,14 +2242,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "覗いていくかい？"
+                                "Shall we take a peek? About the person you're\nthinking of."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あなたが想ってる人のこと。"
+                                ""
                             ]
                         },
                         {
@@ -2266,14 +2266,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むこうもあなたを想ってる。"
+                                "The other person is also thinking of you. Now,\nwhat will you do?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "さぁどうする？"
+                                ""
                             ]
                         },
                         {
@@ -2312,7 +2312,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よし、じゃあめをつぶって・・・。"
+                                "Alright, then let's close our eyes..."
                             ]
                         },
                         {
@@ -2329,7 +2329,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "意識を飛ばすよ・・・。"
+                                "Let's lose consciousness..."
                             ]
                         },
                         {
@@ -2507,31 +2507,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よし、これであんたは今彼の意識の中にいる。"
+                                "Alright, with this, you are now inside their\nconsciousness. You won't be able to speak, but you\nwill be merged with them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "喋れないだろうけど、彼と一体化してるのさ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "Actor3",
-                                6,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "戻りたくなったらまたココにくればいい。"
+                                ""
                             ]
                         },
                         {
@@ -2548,7 +2531,24 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さ、いってらっしゃい。"
+                                "If you want to return, just come back here."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "Actor3",
+                                6,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Well then, off you go."
                             ]
                         },
                         {
@@ -2578,14 +2578,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ちっ、覗けよ・・・！！"
+                                "Tsk, let's take a peek...!! Someone is\ncomplaining, huh."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "って誰かがグチってるね。"
+                                ""
                             ]
                         },
                         {
@@ -2672,25 +2672,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おかえり。"
+                                "Welcome back. Are you already going back?"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう戻るかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -2710,14 +2710,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今まで見た記憶はさっぱりなくなっちゃうけど。"
+                                "I don't remember anything I've seen so far. What\nshould I do?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうする？"
+                                ""
                             ]
                         },
                         {
@@ -2756,14 +2756,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オーケー。"
+                                "Okay. Then close your eyes..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "じゃあ目をつぶって・・・。"
+                                ""
                             ]
                         },
                         {
@@ -2939,7 +2939,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あれ・・・私・・・。"
+                                "Huh... I..."
                             ]
                         },
                         {
@@ -2956,14 +2956,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お帰り。"
+                                "Welcome back. It seems you returned safely."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "無事戻ったようだね。"
+                                ""
                             ]
                         },
                         {
@@ -2980,7 +2980,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "えっ、わたし今クロトを覗いてたの？"
+                                "Huh, was I just peeping on Clot?"
                             ]
                         },
                         {
@@ -2997,14 +2997,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうさ。"
+                                "Yeah, unfortunately, I don't think I have any\nmemories at all."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "残念ながら、全く記憶はないと思うけどね。"
+                                ""
                             ]
                         },
                         {
@@ -3021,7 +3021,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "えーっ・・なんだろ、騙されてるみたぃ・・。"
+                                "Eh... I wonder if I'm being deceived..."
                             ]
                         },
                         {
@@ -3038,14 +3038,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふふ、そんなもんさ。"
+                                "Hehe, it's no big deal. If you feel like peeping\nagain, come back anytime."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "覗きたくなったらまたおいで。"
+                                ""
                             ]
                         },
                         {
@@ -3075,14 +3075,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうかい。"
+                                "I see. If you feel like coming back, it's good to\ncome here again."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "戻りたくなったらまたココへくるといい。"
+                                ""
                             ]
                         },
                         {
@@ -3160,7 +3160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "申し訳ないことをしたね・・。"
+                                "I'm sorry for what I did..."
                             ]
                         },
                         {

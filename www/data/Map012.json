@@ -2179,25 +2179,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん？"
+                                "Hm? Isn't that Belle?"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ベルエ君じゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -2217,7 +2217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなに慌てて何事かね。"
+                                "What's the rush? Is something the matter?"
                             ]
                         },
                         {
@@ -2234,25 +2234,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生っ、大変なの！"
+                                "Teacher, something terrible happened! Lord\nDharma... has collapsed!"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ダーマ様が・・・倒れちゃったの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -2272,7 +2272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "急いで診に来てほしいの！"
+                                "I want you to come and examine him quickly!"
                             ]
                         },
                         {
@@ -2289,14 +2289,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだって、ダーマ様が倒れたと？"
+                                "What? Lord Dharma has collapsed? That's terrible.\nAlright, let's quickly prepare and go."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それは大変だな、よし急いで支度をするよ。"
+                                ""
                             ]
                         },
                         {
@@ -2397,14 +2397,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あら、ベルエちゃん"
+                                "Oh, Belle, it seems like something troublesome has\nhappened..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大変なことになっちゃったわね・・・。"
+                                ""
                             ]
                         },
                         {
@@ -2421,21 +2421,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーマ様の病気を治すことは出来ないけれど"
+                                "Even though we can't cure Lord Dharma's illness,\nif there's anything we can do to help, please let\nus know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "私達に力になれることがあったら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何でも言ってね。"
+                                ""
                             ]
                         },
                         {
@@ -2503,14 +2503,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あら、ベルエちゃん"
+                                "Oh, Belle, what's wrong? You have a scared\nexpression..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうしたの、怖い顔して・・・。"
+                                ""
                             ]
                         },
                         {
@@ -2527,14 +2527,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先生を探してるの？"
+                                "Are you looking for the teacher? If you're looking\nfor the teacher, they're in the next room."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "先生なら隣の部屋にいるわ。"
+                                ""
                             ]
                         },
                         {
@@ -2602,25 +2602,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん？"
+                                "Hm? Isn't that Belle?"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ベルエ君じゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -2640,14 +2640,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーマ様、すっかり元気になられて"
+                                "Lord Dharma, I'm truly glad to see that you've\nfully recovered!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "本当によかった！"
+                                ""
                             ]
                         },
                         {
@@ -2664,7 +2664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は、はい・・・。"
+                                "Y-Yes..."
                             ]
                         },
                         {
@@ -2681,14 +2681,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしたのかね、浮かない顔をして。"
+                                "What's wrong? You have a gloomy expression. Is\nthere some problem?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何か問題でもあるのかな？"
+                                ""
                             ]
                         },
                         {
@@ -2705,7 +2705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・ん、ううん、何でもないです。"
+                                "...Hmm, no, it's nothing."
                             ]
                         },
                         {
@@ -2722,14 +2722,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうか、それならよかった。"
+                                "I see, well that's good. Please make sure to let\nthem know not to push themselves too hard."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "くれぐれも無理をしないようにと、伝えておいてくれ。"
+                                ""
                             ]
                         },
                         {
@@ -2797,14 +2797,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん、クロトか、どうした？"
+                                "Hmm, Clot, what's wrong? Did you get injured\nsomewhere?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どこか怪我でもしたかな？"
+                                ""
                             ]
                         },
                         {
@@ -2821,7 +2821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えへへ、何となく来ただけっ！"
+                                "Hehehe, I just came here for no particular reason!"
                             ]
                         },
                         {
@@ -2838,14 +2838,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なあんだ、怪我していないなら来る必要はないだろう。"
+                                "Oh, if you're not injured, there's no need for you\nto come. I'm working, so please go home quickly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "仕事中だからね、早く帰りなさい。"
+                                ""
                             ]
                         },
                         {
@@ -2862,7 +2862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はーい。"
+                                "Sure."
                             ]
                         },
                         {
@@ -2939,14 +2939,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん、ベルエ君。"
+                                "Hmm, Belle-kun. What's the matter?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうしたのかね？"
+                                ""
                             ]
                         },
                         {
@@ -2963,7 +2963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "秘術師の件はどうなっているかな？"
+                                "I wonder how things are going with the sorcerer's\nmatter?"
                             ]
                         },
                         {
@@ -2989,14 +2989,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "実は、かくかくで・・・"
+                                "Actually, it's a secret... but... umm..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しかじか・・・・なんです。"
+                                ""
                             ]
                         },
                         {
@@ -3029,63 +3029,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なっ・・・なんということだ・・・。"
+                                "W-What... What is this... Is it true...?"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは本当なのかね・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "isya",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし彼しか頼るものがいない現状・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "疑った所でもうなす術がないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -3105,90 +3067,128 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "参ったな、そんなものが必要とは"
+                                "However, in the current situation where there is\nno one else to rely on but them... I have no\nchoice but to trust them, even if I have doubts."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一体どんな秘薬だというのだ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "isya",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかしまぁ、いずれにせよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "老体の私では難しいだろう。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "isya",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "申し訳ないが・・・他を当たってもらったほうがいい。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "isya",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "力になれなくて申し訳ないね・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "isya",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
                             "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I'm at a loss... What kind of secret medicine is\nit that's necessary...?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "isya",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Well, in any case, it would be difficult for an\nold body like mine."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "isya",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I'm sorry, but... it would be better for you to\nask someone else."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "isya",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I'm sorry for not being able to be of help..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -3208,14 +3208,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いえ、大丈夫です。"
+                                "No, it's okay. I'm the one who should apologize\nfor making a strange request."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こちらこそ、変なお願いしてごめんなさいです。"
+                                ""
                             ]
                         },
                         {
@@ -3232,7 +3232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（でもベルエ君とセックスしてみたかった・・・）"
+                                "(But I wanted to have sex with Belle-kun...)"
                             ]
                         },
                         {
@@ -3308,7 +3308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "力になれなくて申し訳ないね・・・。"
+                                "I'm sorry for not being able to be of help..."
                             ]
                         },
                         {
@@ -3325,7 +3325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（でもベルエ君とセックスしてみたかった・・・）"
+                                "(But I wanted to have sex with Belle-kun...)"
                             ]
                         },
                         {

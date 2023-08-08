@@ -1428,14 +1428,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さぁベルエよ！"
+                                "Now, Belle! Let's begin our magic training!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "魔法の訓練を始めるぞ！"
+                                ""
                             ]
                         },
                         {
@@ -1468,14 +1468,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いくよ！"
+                                "Here we go! Lord Dharma!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ダーマ様！"
+                                ""
                             ]
                         },
                         {
@@ -1833,7 +1833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次はこちらからいくぞ！"
+                                "Next, it's my turn!"
                             ]
                         },
                         {
@@ -2131,7 +2131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁっ、はぁっ。"
+                                "*Haaah, haaah.*"
                             ]
                         },
                         {
@@ -2153,7 +2153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たぁ～っ！"
+                                "*Haaah, haaah.*"
                             ]
                         },
                         {
@@ -2208,7 +2208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "せぁっ！！"
+                                "Take this!"
                             ]
                         },
                         {
@@ -2282,7 +2282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "１時間後・・・・"
+                                "1 hour later..."
                             ]
                         },
                         {
@@ -2318,14 +2318,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁっ！"
+                                "*Haaah! Haaah...!!*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はぁっ・・・・！！"
+                                ""
                             ]
                         },
                         {
@@ -2435,14 +2435,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし、よくやったねベルエよ。"
+                                "Well done, Belle! You did a great job. Let's stop\nhere for today."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今日はここまでにしよう。"
+                                ""
                             ]
                         },
                         {
@@ -2510,14 +2510,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅっ・・・。"
+                                "*Haaah.... Yes, Lord Dharma!*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はーい、ダーマ様！"
+                                ""
                             ]
                         },
                         {

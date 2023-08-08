@@ -1384,7 +1384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おじさんの所にいかなきゃ・・・。"
+                                "I have to go to the uncle's place..."
                             ]
                         },
                         {
@@ -1567,25 +1567,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃい。"
+                                "Welcome. Oh, are you here for an errand?"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ん、お使いかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -1605,7 +1605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "欲しい物があれば言っておくれ。"
+                                "If there's something you want, please let me know."
                             ]
                         },
                         {
@@ -1622,7 +1622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（めっちゃタイプだわ・・・）"
+                                "(They're my type...)"
                             ]
                         },
                         {
@@ -1690,25 +1690,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃい。"
+                                "Welcome. Oh, are you here for an errand?"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ん、お使いかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -1728,7 +1728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "欲しい物があれば言っておくれ。"
+                                "If there's something you want, please let me know."
                             ]
                         },
                         {
@@ -1761,49 +1761,11 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あのぅ、秘術師の壷っていうの・・・"
+                                "Um, do you have something called the Sorcerer's\nJar...?"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありますかぁ？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "kottouhin",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "秘術師の壷・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あー、あったと思うなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -1823,25 +1785,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リビッドさんから頼まれたの？"
+                                "The Sorcerer's Jar... Ah, I think I have it."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "秘術師なんて言ったらこのへんじゃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -1861,14 +1823,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの人くらいなものだからね。"
+                                "Did Livid-san ask you to do this? If you mention\nbeing a sorcerer around here..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（あの人まーたカワイイのつかまえたなぁ～）"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -1885,7 +1861,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ったくとんだスケベおやじだぜ・・・。"
+                                "That person is just like that, you know. (That\nperson, always catching cute ones, huh~)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "kottouhin",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "What a perverted old man..."
                             ]
                         },
                         {
@@ -1902,7 +1902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ・・・？"
+                                "Huh...?"
                             ]
                         },
                         {
@@ -1928,80 +1928,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あいや、なんでもないよ！"
+                                "Oh, it's nothing! (Oops, I accidentally said it\nout loud)"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（いけねっ、つい口にでちまったわ）"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "kottouhin",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（まぁスケベなら俺も負けてないけど・・）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "kottouhin",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "と、とにかくだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "壷なら裏の倉庫にあるはずなんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -2021,14 +1966,69 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただどこにしまったんだか・・・"
+                                "(Well, if we're talking about being perverted, I'm\nnot losing either...)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "kottouhin",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お嬢さんよかったら探すの手伝ってくれる？"
+                                "A-anyway, the jar should be in the warehouse\nbehind here."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "kottouhin",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I just can't remember where I put it... If you\ndon't mind, would you help me search for it, miss?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2045,7 +2045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は～い！"
+                                "Yes!"
                             ]
                         },
                         {
@@ -2062,7 +2062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし、じゃあついてきてくれる？"
+                                "Alright, then will you come with me?"
                             ]
                         },
                         {
@@ -2274,7 +2274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれっ・・・？"
+                                "Huh...?"
                             ]
                         },
                         {
@@ -2317,25 +2317,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "足に力がはいらな・・・い。"
+                                "I can't... move my legs... *sigh*"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁっ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -2355,14 +2355,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "っでも・・・"
+                                "But... I have to go..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いかなきゃ・・・。"
+                                ""
                             ]
                         },
                         {
@@ -2495,7 +2495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また欲しい物があれば言っておくれ。"
+                                "If there's anything else you want, please let me\nknow."
                             ]
                         },
                         {
@@ -2563,25 +2563,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや、お嬢ちゃんじゃないか。"
+                                "Oh, it's you, young lady. What's the matter?"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしたんだい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -2601,14 +2601,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また何か探しものかな？"
+                                "Are you looking for something again? (Is there\nanother chance for some naughty business~?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（またスケベチャンスあるかな～？）"
+                                ""
                             ]
                         },
                         {
@@ -2625,7 +2625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（どうしよう、知ってる男の人ではあるけど・・・）"
+                                "(What should I do? They are someone I know,\nbut...)"
                             ]
                         },
                         {
@@ -2692,7 +2692,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "実はあの・・・必要なものがあって・・。"
+                                "Actually... I need something..."
                             ]
                         },
                         {
@@ -2709,7 +2709,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんだい、言ってごらん？"
+                                "What is it? Tell me."
                             ]
                         },
                         {
@@ -2733,7 +2733,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おとこのひとの・・・せいえきです・・・。"
+                                "It's... a man's... essence..."
                             ]
                         },
                         {
@@ -2759,25 +2759,25 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（なんだこいつ、やっぱり痴女じゃないか・・・！）"
+                                "(What's with this person, they really are a\npervert...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
                                 ""
@@ -2797,7 +2797,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（ってかこの歳で！？うっそだろ・・いやしかし・・）"
+                                "(Wait, at this age!? No way... but still...)"
                             ]
                         },
                         {
@@ -2814,7 +2814,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（もしかしたら何かの罠か・・・）"
+                                "(Perhaps this is some kind of trap...)"
                             ]
                         },
                         {
@@ -2831,14 +2831,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おじょうちゃん、精液って言うけど・・・その"
+                                "Young lady, you mentioned 'essence'... What do you\nuse it for?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "何に使うのかな？"
+                                ""
                             ]
                         },
                         {
@@ -2855,7 +2855,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その、秘薬をつくるのに必要で・・・。"
+                                "Um, it's necessary for making a secret potion..."
                             ]
                         },
                         {
@@ -2872,31 +2872,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あーーーーーー理解したわ。"
+                                "Ah, I understand. (It's Livid-san again... haha)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "（またリビッドさんね・・・笑）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "kottouhin",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（しっかしほんとに精液で作る秘薬なんてあんのかね）"
+                                ""
                             ]
                         },
                         {
@@ -2913,7 +2896,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（まぁいいや、タダでスケベできんだから）"
+                                "(But is there really a secret potion made from\nsemen?)"
                             ]
                         },
                         {
@@ -2930,14 +2913,31 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よしわかった、喜んで協力するよ！"
+                                "(Well, whatever. Since I can't indulge in\nperversion for free)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "kottouhin",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おじさん困ってる人ほっとけないから！"
+                                "Alright, I got it. I'll gladly help! I can't just\nleave someone in trouble, you know!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2954,7 +2954,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あ、ありがとうございます・・・。"
+                                "Th-Thank you very much..."
                             ]
                         },
                         {
@@ -2971,7 +2971,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（ついに・・・私・・・この人に初めてをささげちゃうんだ・・）"
+                                "(Finally... I... will give myself to this person\nfor the first time...)"
                             ]
                         },
                         {
@@ -2988,7 +2988,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（ふひひ～～全部出し尽くすまで帰さないもんねぇっ\\I[0]）"
+                                "(Fufufu~ I won't let you go until I've drained you\ncompletely \\I[0])"
                             ]
                         },
                         {
@@ -3005,7 +3005,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "じゃ、こっちきてねぇ\\I[0]"
+                                "Well, come over here, okay? \\I[0]"
                             ]
                         },
                         {
@@ -3246,14 +3246,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "な、なんでもないです！"
+                                "N-No, it's nothing! I'm sorry!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "ごめんなさい！"
+                                ""
                             ]
                         },
                         {
@@ -3270,14 +3270,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そ、そうか。"
+                                "I-Is that so? (What was that?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "（なんだったんだ？）"
+                                ""
                             ]
                         },
                         {
@@ -3406,7 +3406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また欲しい物があれば言っておくれ・・・。"
+                                "If there's anything else you want, please let me\nknow..."
                             ]
                         },
                         {
@@ -3474,14 +3474,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おやおや？"
+                                "Oh my, isn't it a young lady? What's the matter?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "おじょうちゃんじゃないか、どうしたんだい？"
+                                ""
                             ]
                         },
                         {
@@ -3529,14 +3529,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そんな単刀直入に・・・！！"
+                                "To be so direct...!! (A complete seductress!!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "（完全に痴女！！）"
+                                ""
                             ]
                         },
                         {
@@ -3553,7 +3553,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "だって・・全部修行だから・・仕方ないんだもん\\I[0]"
+                                "Because... it's all part of my training... I can't\nhelp it, you know. \\I[0]"
                             ]
                         },
                         {
@@ -3579,14 +3579,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あはは・・凄い修行だなぁ。"
+                                "Ahaha... What an intense training. (Looks like\nI've been completely brainwashed by Livid-san...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "（リビッドさんに見事に洗脳されたなこりゃ・・）"
+                                ""
                             ]
                         },
                         {
@@ -3603,14 +3603,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よーし、おじさんどこまでも付き合っちゃう！"
+                                "Alright, I'll stick with you no matter what,\nmister! (This is a good toy \\I[0])"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "（こりゃいいおもちゃ\\I[0]）"
+                                ""
                             ]
                         },
                         {
@@ -3673,14 +3673,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ん・・・？"
+                                "Hm...? Is that so?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "そうかい。"
+                                ""
                             ]
                         },
                         {
@@ -3758,14 +3758,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや、クロトじゃないか。"
+                                "Oh, it's Clot. What's up?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "どうした～？"
+                                ""
                             ]
                         },
                         {
@@ -3782,7 +3782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ううん・・・家出中なんだぁ。"
+                                "Nah... I'm actually running away from home."
                             ]
                         },
                         {
@@ -3799,21 +3799,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えぇ？"
+                                "Huh? Are you going to get scolded by your dad\nagain? It's better for you to go back home\nquickly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "またオヤジさんに怒られるぞぉ？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "早く帰ったほうがいいぞぉ。"
+                                ""
                             ]
                         },
                         {
@@ -3830,7 +3830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・。"
+                                "...."
                             ]
                         },
                         {
@@ -3898,204 +3898,11 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや、クロトじゃないか。"
+                                "Oh, isn't it Clot? Are you running errands today?"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日はおつかい？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "kuroto",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや、違うんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの・・ピンクの髪の女の子知らないかなって・・。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "kottouhin",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ピンクの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああ・・・あの魔法使いの子？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "kottouhin",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれだよね、リビッドさんのとこで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お世話になってるとかっていう・・・。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "kuroto",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうそうそうそう！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その子だよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "知ってるの！？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "kottouhin",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや知ってるというか・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこにいるんだか何してるんだかは知らないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "kottouhin",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（生マンの味はいっぱい知ってるけどね・・\\I[0]）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -4115,7 +3922,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何でもいいから情報がほしいんだ・・・。"
+                                "No, that's not it. Um... do you happen to know a\ngirl with pink hair...?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4132,7 +3946,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（なんだ、恋でもしちゃってんのか？）"
+                                "Pink? Ah... that magician girl?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4149,7 +3984,172 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（くぅ～教えてぇ～教えたら卒倒しちゃうかな～？）"
+                                "Oh, I see. So you're saying you're indebted to\nLivid-san's place..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "kuroto",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Yes, yes, yes, yes!!! That's the one! Do you know\nher!?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "kottouhin",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Well, I wouldn't say I know her... I don't know\nwhere she is or what she's doing."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "kottouhin",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "(I know the taste of raw man very well, though...\n\\I[0])"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "kuroto",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I just want any information I can get..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "kottouhin",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "(What, are you in love or something?)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "kottouhin",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "(Kuu~ I want you to tell me~ If you tell me, will\nI faint~?)"
                             ]
                         },
                         {
@@ -4175,25 +4175,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、知らん。"
+                                "No, I don't know. Sorry, I can't be of any help."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪いな、力になれなくて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -4213,7 +4213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（一応取引先の息子だしな、やめとこう。）"
+                                "(Well, since I'm the son of a business partner,\nlet's stop here.)"
                             ]
                         },
                         {
@@ -4230,7 +4230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そっかぁ・・・ありがとう。"
+                                "I see... Thank you."
                             ]
                         },
                         {
@@ -4315,14 +4315,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや、クロトじゃないか。"
+                                "Oh, isn't it Clot? Have you found that child we\nwere looking for?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "見つかった、例の子？"
+                                ""
                             ]
                         },
                         {
@@ -4430,7 +4430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "The door is locked."
                             ]
                         },
                         {
@@ -4746,7 +4746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "The door is locked."
                             ]
                         },
                         {
@@ -5062,7 +5062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっている。"
+                                "The door is locked."
                             ]
                         },
                         {

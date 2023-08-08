@@ -1153,14 +1153,14 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "くっ・・炎の魔法でっっ！！"
+                    "Kuh... With the magic of fire!! Take this!!!"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 1,
                 "parameters": [
-                    "やあっ！！！"
+                    ""
                 ]
             },
             {
@@ -1402,25 +1402,25 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "やはあぁっ・・服の中にはいってきちゃだめぇえっ！！"
+                    "Yahh... Don't go inside my clothes!!"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 2,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 2,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 2,
                 "parameters": [
                     ""
@@ -1440,14 +1440,14 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "どうしてっ、普段大人しいはずの植物型生物が・・・"
+                    "Why... would a normally docile plant-like\ncreature... attack humans!?"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 2,
                 "parameters": [
-                    "人間を襲うのっ・・！？"
+                    ""
                 ]
             },
             {
@@ -1535,25 +1535,25 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "くああっ・・・！！"
+                    "Kuaah...!! I can't move...!!"
                 ]
             },
             {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "動けないっ・・・！！"
-                ]
-            },
-            {
-                "code": 401,
+                "code": 0,
                 "indent": 2,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
+                "indent": 2,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
                 "indent": 2,
                 "parameters": [
                     ""
@@ -1573,7 +1573,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "なんとかしないと・・・っ！！"
+                    "I have to do something...!!"
                 ]
             },
             {
@@ -1698,25 +1698,25 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ンムーーーッ・・・！？！？"
+                    "Nmmooo...?! (It's getting even more\nentangled...)"
                 ]
             },
             {
-                "code": 401,
-                "indent": 3,
-                "parameters": [
-                    "（さらに絡み付いてきてるっっ・・）"
-                ]
-            },
-            {
-                "code": 401,
+                "code": 0,
                 "indent": 3,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
+                "indent": 3,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
                 "indent": 3,
                 "parameters": [
                     ""
@@ -1807,14 +1807,14 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ンー、ンー！！"
+                    "Mmm, mmm!! (Stop it, let me go!!)"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 3,
                 "parameters": [
-                    "（やめてっ、はなしてっ！！）"
+                    ""
                 ]
             },
             {
@@ -1902,7 +1902,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "（これじゃ魔法も使えない・・・！！）"
+                    "(At this rate, I won't be able to use\nmagic...!!)"
                 ]
             },
             {
@@ -1919,7 +1919,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "（どうしよう・・どうしたら・・！！）"
+                    "(What should I do... What can I do!!)"
                 ]
             },
             {
@@ -2007,7 +2007,7 @@
                 "code": 401,
                 "indent": 3,
                 "parameters": [
-                    "ンムーッ・・・！！"
+                    "Mmm...!!"
                 ]
             },
             {
@@ -2169,678 +2169,11 @@
                 "code": 401,
                 "indent": 4,
                 "parameters": [
-                    "フーッ！！"
+                    "Huff!! Mmm... Ngghh...!!!"
                 ]
             },
             {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    "ンム・・ングッ・・・！！！"
-                ]
-            },
-            {
-                "code": 250,
-                "indent": 4,
-                "parameters": [
-                    {
-                        "name": "Bow4",
-                        "volume": 90,
-                        "pitch": 100,
-                        "pan": 0
-                    }
-                ]
-            },
-            {
-                "code": 231,
-                "indent": 4,
-                "parameters": [
-                    6,
-                    "stand_t4",
-                    0,
-                    0,
-                    0,
-                    0,
-                    100,
-                    100,
-                    0,
-                    0
-                ]
-            },
-            {
-                "code": 232,
-                "indent": 4,
-                "parameters": [
-                    6,
-                    0,
-                    0,
-                    0,
-                    0,
-                    30,
-                    100,
-                    100,
-                    255,
-                    0,
-                    60,
-                    true
-                ]
-            },
-            {
-                "code": 232,
-                "indent": 4,
-                "parameters": [
-                    6,
-                    0,
-                    0,
-                    0,
-                    0,
-                    50,
-                    100,
-                    100,
-                    0,
-                    0,
-                    60,
-                    true
-                ]
-            },
-            {
-                "code": 235,
-                "indent": 4,
-                "parameters": [
-                    6
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 4,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    "（ダメ・・目も見えない・・！！）"
-                ]
-            },
-            {
-                "code": 250,
-                "indent": 4,
-                "parameters": [
-                    {
-                        "name": "Bow4",
-                        "volume": 90,
-                        "pitch": 100,
-                        "pan": 0
-                    }
-                ]
-            },
-            {
-                "code": 231,
-                "indent": 4,
-                "parameters": [
-                    7,
-                    "stand_t5",
-                    0,
-                    0,
-                    0,
-                    0,
-                    100,
-                    100,
-                    0,
-                    0
-                ]
-            },
-            {
-                "code": 232,
-                "indent": 4,
-                "parameters": [
-                    7,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -20,
-                    100,
-                    100,
-                    255,
-                    0,
-                    60,
-                    true
-                ]
-            },
-            {
-                "code": 232,
-                "indent": 4,
-                "parameters": [
-                    7,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -30,
-                    100,
-                    100,
-                    0,
-                    0,
-                    60,
-                    true
-                ]
-            },
-            {
-                "code": 235,
-                "indent": 4,
-                "parameters": [
-                    7
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 4,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    "（どうしよう・・動けない・・助けて・・！！）"
-                ]
-            },
-            {
-                "code": 250,
-                "indent": 4,
-                "parameters": [
-                    {
-                        "name": "Bow4",
-                        "volume": 90,
-                        "pitch": 100,
-                        "pan": 0
-                    }
-                ]
-            },
-            {
-                "code": 231,
-                "indent": 4,
-                "parameters": [
-                    6,
-                    "stand_t4",
-                    0,
-                    0,
-                    0,
-                    0,
-                    100,
-                    100,
-                    0,
-                    0
-                ]
-            },
-            {
-                "code": 232,
-                "indent": 4,
-                "parameters": [
-                    6,
-                    0,
-                    0,
-                    0,
-                    0,
-                    30,
-                    100,
-                    100,
-                    255,
-                    0,
-                    60,
-                    true
-                ]
-            },
-            {
-                "code": 232,
-                "indent": 4,
-                "parameters": [
-                    6,
-                    0,
-                    0,
-                    0,
-                    0,
-                    50,
-                    100,
-                    100,
-                    0,
-                    0,
-                    60,
-                    true
-                ]
-            },
-            {
-                "code": 235,
-                "indent": 4,
-                "parameters": [
-                    6
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 4,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    "（いやぁ・・・！！！）"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 4,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    "（アソコに何かあたってる・・・なんかヌルヌルしたもの・・）"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 250,
-                "indent": 4,
-                "parameters": [
-                    {
-                        "name": "Bow4",
-                        "volume": 90,
-                        "pitch": 100,
-                        "pan": 0
-                    }
-                ]
-            },
-            {
-                "code": 231,
-                "indent": 4,
-                "parameters": [
-                    7,
-                    "stand_t5",
-                    0,
-                    0,
-                    0,
-                    0,
-                    100,
-                    100,
-                    0,
-                    0
-                ]
-            },
-            {
-                "code": 232,
-                "indent": 4,
-                "parameters": [
-                    7,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -20,
-                    100,
-                    100,
-                    255,
-                    0,
-                    60,
-                    true
-                ]
-            },
-            {
-                "code": 232,
-                "indent": 4,
-                "parameters": [
-                    7,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -30,
-                    100,
-                    100,
-                    0,
-                    0,
-                    60,
-                    true
-                ]
-            },
-            {
-                "code": 235,
-                "indent": 4,
-                "parameters": [
-                    7
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 4,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    "（はああっ・・・だめぇっ・・ヌルヌルしちゃだめぇっ・・）"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 4,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    "（ああっ・・あっ・・あっ・・乳首もこすれちゃ・・・）"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 250,
-                "indent": 4,
-                "parameters": [
-                    {
-                        "name": "Bow4",
-                        "volume": 90,
-                        "pitch": 100,
-                        "pan": 0
-                    }
-                ]
-            },
-            {
-                "code": 231,
-                "indent": 4,
-                "parameters": [
-                    7,
-                    "stand_t5",
-                    0,
-                    0,
-                    0,
-                    0,
-                    100,
-                    100,
-                    0,
-                    0
-                ]
-            },
-            {
-                "code": 232,
-                "indent": 4,
-                "parameters": [
-                    7,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -20,
-                    100,
-                    100,
-                    255,
-                    0,
-                    60,
-                    true
-                ]
-            },
-            {
-                "code": 232,
-                "indent": 4,
-                "parameters": [
-                    7,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -30,
-                    100,
-                    100,
-                    0,
-                    0,
-                    60,
-                    true
-                ]
-            },
-            {
-                "code": 235,
-                "indent": 4,
-                "parameters": [
-                    7
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 4,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    "（あっ、はいってきちゃだめ・・・やだ・・・！！）"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 250,
-                "indent": 4,
-                "parameters": [
-                    {
-                        "name": "Bow4",
-                        "volume": 90,
-                        "pitch": 100,
-                        "pan": 0
-                    }
-                ]
-            },
-            {
-                "code": 231,
-                "indent": 4,
-                "parameters": [
-                    7,
-                    "stand_t5",
-                    0,
-                    0,
-                    0,
-                    0,
-                    100,
-                    100,
-                    0,
-                    0
-                ]
-            },
-            {
-                "code": 232,
-                "indent": 4,
-                "parameters": [
-                    7,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -20,
-                    100,
-                    100,
-                    255,
-                    0,
-                    60,
-                    true
-                ]
-            },
-            {
-                "code": 232,
-                "indent": 4,
-                "parameters": [
-                    7,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -30,
-                    100,
-                    100,
-                    0,
-                    0,
-                    60,
-                    true
-                ]
-            },
-            {
-                "code": 235,
-                "indent": 4,
-                "parameters": [
-                    7
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 4,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    "ンッ・・・ンッ・・・\\I[0]"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    "（なんでこんな植物が・・こんな・・動きっ・・\\I[0]）"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 4,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
+                "code": 0,
                 "indent": 4,
                 "parameters": [
                     ""
@@ -2931,7 +2264,95 @@
                 "code": 401,
                 "indent": 4,
                 "parameters": [
-                    "ンッ、ンッ\\I[0]"
+                    "(No... I can't even see...!!)"
+                ]
+            },
+            {
+                "code": 250,
+                "indent": 4,
+                "parameters": [
+                    {
+                        "name": "Bow4",
+                        "volume": 90,
+                        "pitch": 100,
+                        "pan": 0
+                    }
+                ]
+            },
+            {
+                "code": 231,
+                "indent": 4,
+                "parameters": [
+                    7,
+                    "stand_t5",
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    100,
+                    0,
+                    0
+                ]
+            },
+            {
+                "code": 232,
+                "indent": 4,
+                "parameters": [
+                    7,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -20,
+                    100,
+                    100,
+                    255,
+                    0,
+                    60,
+                    true
+                ]
+            },
+            {
+                "code": 232,
+                "indent": 4,
+                "parameters": [
+                    7,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -30,
+                    100,
+                    100,
+                    0,
+                    0,
+                    60,
+                    true
+                ]
+            },
+            {
+                "code": 235,
+                "indent": 4,
+                "parameters": [
+                    7
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 4,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 4,
+                "parameters": [
+                    "(What should I do... I can't move... Help\nme...!!)"
                 ]
             },
             {
@@ -3019,14 +2440,593 @@
                 "code": 401,
                 "indent": 4,
                 "parameters": [
-                    "ハァッ・・ハァッ・・・！！"
+                    "(No...!!!)"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 4,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
                 ]
             },
             {
                 "code": 401,
                 "indent": 4,
                 "parameters": [
-                    "（たす・・けて・・・！！）"
+                    "(Something is touching down there... It feels\nslippery...)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 4,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 4,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 4,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 250,
+                "indent": 4,
+                "parameters": [
+                    {
+                        "name": "Bow4",
+                        "volume": 90,
+                        "pitch": 100,
+                        "pan": 0
+                    }
+                ]
+            },
+            {
+                "code": 231,
+                "indent": 4,
+                "parameters": [
+                    7,
+                    "stand_t5",
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    100,
+                    0,
+                    0
+                ]
+            },
+            {
+                "code": 232,
+                "indent": 4,
+                "parameters": [
+                    7,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -20,
+                    100,
+                    100,
+                    255,
+                    0,
+                    60,
+                    true
+                ]
+            },
+            {
+                "code": 232,
+                "indent": 4,
+                "parameters": [
+                    7,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -30,
+                    100,
+                    100,
+                    0,
+                    0,
+                    60,
+                    true
+                ]
+            },
+            {
+                "code": 235,
+                "indent": 4,
+                "parameters": [
+                    7
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 4,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 4,
+                "parameters": [
+                    "(Haaah... Nooo... Don't make it slippery...)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 4,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 4,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 4,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 4,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 4,
+                "parameters": [
+                    "(Aah... Ah... Ah... My nipples are rubbing...)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 4,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 4,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 4,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 250,
+                "indent": 4,
+                "parameters": [
+                    {
+                        "name": "Bow4",
+                        "volume": 90,
+                        "pitch": 100,
+                        "pan": 0
+                    }
+                ]
+            },
+            {
+                "code": 231,
+                "indent": 4,
+                "parameters": [
+                    7,
+                    "stand_t5",
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    100,
+                    0,
+                    0
+                ]
+            },
+            {
+                "code": 232,
+                "indent": 4,
+                "parameters": [
+                    7,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -20,
+                    100,
+                    100,
+                    255,
+                    0,
+                    60,
+                    true
+                ]
+            },
+            {
+                "code": 232,
+                "indent": 4,
+                "parameters": [
+                    7,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -30,
+                    100,
+                    100,
+                    0,
+                    0,
+                    60,
+                    true
+                ]
+            },
+            {
+                "code": 235,
+                "indent": 4,
+                "parameters": [
+                    7
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 4,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 4,
+                "parameters": [
+                    "(Ah, don't go in... No...!!)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 4,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 4,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 4,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 250,
+                "indent": 4,
+                "parameters": [
+                    {
+                        "name": "Bow4",
+                        "volume": 90,
+                        "pitch": 100,
+                        "pan": 0
+                    }
+                ]
+            },
+            {
+                "code": 231,
+                "indent": 4,
+                "parameters": [
+                    7,
+                    "stand_t5",
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    100,
+                    0,
+                    0
+                ]
+            },
+            {
+                "code": 232,
+                "indent": 4,
+                "parameters": [
+                    7,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -20,
+                    100,
+                    100,
+                    255,
+                    0,
+                    60,
+                    true
+                ]
+            },
+            {
+                "code": 232,
+                "indent": 4,
+                "parameters": [
+                    7,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -30,
+                    100,
+                    100,
+                    0,
+                    0,
+                    60,
+                    true
+                ]
+            },
+            {
+                "code": 235,
+                "indent": 4,
+                "parameters": [
+                    7
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 4,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 4,
+                "parameters": [
+                    "Nngh... Nngh... \\I[0] (Why is there a plant like\nthis... moving like this... \\I[0])"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 4,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 4,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 4,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 250,
+                "indent": 4,
+                "parameters": [
+                    {
+                        "name": "Bow4",
+                        "volume": 90,
+                        "pitch": 100,
+                        "pan": 0
+                    }
+                ]
+            },
+            {
+                "code": 231,
+                "indent": 4,
+                "parameters": [
+                    6,
+                    "stand_t4",
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    100,
+                    0,
+                    0
+                ]
+            },
+            {
+                "code": 232,
+                "indent": 4,
+                "parameters": [
+                    6,
+                    0,
+                    0,
+                    0,
+                    0,
+                    30,
+                    100,
+                    100,
+                    255,
+                    0,
+                    60,
+                    true
+                ]
+            },
+            {
+                "code": 232,
+                "indent": 4,
+                "parameters": [
+                    6,
+                    0,
+                    0,
+                    0,
+                    0,
+                    50,
+                    100,
+                    100,
+                    0,
+                    0,
+                    60,
+                    true
+                ]
+            },
+            {
+                "code": 235,
+                "indent": 4,
+                "parameters": [
+                    6
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 4,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 4,
+                "parameters": [
+                    "Nngh, Nngh"
+                ]
+            },
+            {
+                "code": 250,
+                "indent": 4,
+                "parameters": [
+                    {
+                        "name": "Bow4",
+                        "volume": 90,
+                        "pitch": 100,
+                        "pan": 0
+                    }
+                ]
+            },
+            {
+                "code": 231,
+                "indent": 4,
+                "parameters": [
+                    6,
+                    "stand_t4",
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    100,
+                    0,
+                    0
+                ]
+            },
+            {
+                "code": 232,
+                "indent": 4,
+                "parameters": [
+                    6,
+                    0,
+                    0,
+                    0,
+                    0,
+                    30,
+                    100,
+                    100,
+                    255,
+                    0,
+                    60,
+                    true
+                ]
+            },
+            {
+                "code": 232,
+                "indent": 4,
+                "parameters": [
+                    6,
+                    0,
+                    0,
+                    0,
+                    0,
+                    50,
+                    100,
+                    100,
+                    0,
+                    0,
+                    60,
+                    true
+                ]
+            },
+            {
+                "code": 235,
+                "indent": 4,
+                "parameters": [
+                    6
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 4,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 4,
+                "parameters": [
+                    "Haa... Haa...!! (Help...!!)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 4,
+                "parameters": [
+                    ""
                 ]
             },
             {
@@ -3120,7 +3120,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ンンンン～～～～～～ッッッ！！！？！？！？"
+                    "Nnnn~!!!?!?!?!"
                 ]
             },
             {
@@ -3137,7 +3137,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "（やだっ、引きずり込まれるっっ！？）"
+                    "(No, I'm being dragged in?!)"
                 ]
             },
             {
@@ -3653,63 +3653,25 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "おっかしいなぁ・・・確かにここに入って行ったよなぁ。"
+                    "Hmm... It's strange... I'm sure I went in here."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "kuroto",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "もう隅々まで捜したはずなのに・・いない・・。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
@@ -3729,7 +3691,45 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "どこ行っちゃったんだろう・・・ベルエ。"
+                    "I've searched every nook and cranny... but\nthey're not here..."
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "kuroto",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 5,
+                "parameters": [
+                    "I wonder where Belle went..."
                 ]
             },
             {
@@ -3922,14 +3922,14 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "こんだけ捜していないんじゃ"
+                    "If we've searched this much and still haven't\nfound her, maybe we passed by each other somewhere\nand she's already gone home?"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "どこかですれ違って、もう帰っちゃったのかな？"
+                    ""
                 ]
             },
             {
@@ -3946,7 +3946,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "危険な目に遭ってなければいいけど・・・。"
+                    "I hope they haven't encountered any danger..."
                 ]
             },
             {
@@ -4115,94 +4115,25 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "いやああっ・・・！！"
+                    "Nooo...!! (What should I do, am I underground\nhere!?)"
                 ]
             },
             {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "（どうしよう、ここって地中！？）"
-                ]
-            },
-            {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "（洋服もボロボロに脱がされて・・・"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "まわりは触手みたいなのがうようよいるし・・"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "私どうなっちゃうの・・）"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "誰か！！助けて！！"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
@@ -4222,7 +4153,76 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "（お願い・・聞こえて・・・！！）"
+                    "(My clothes are torn to shreds... and there are\ntentacle-like things wriggling around... What's\ngoing to happen to me...)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 5,
+                "parameters": [
+                    "Someone!! Help me!!"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 5,
+                "parameters": [
+                    "(Please... Can you hear me...!!)"
                 ]
             },
             {
@@ -4246,7 +4246,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "はぁっ・・はぁっ・・ダメか・・。"
+                    "*Haa... haa... Is it hopeless...*"
                 ]
             },
             {
@@ -4263,7 +4263,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "（誰もいないのに・・・届くはずないよね・・）"
+                    "(Even though there's no one here... It shouldn't\nreach, right...)"
                 ]
             },
             {
@@ -4292,25 +4292,25 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ひぐううっ・・締め付けられるっっ・・！！"
+                    "Higuu... I'm being squeezed...!!"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
@@ -4383,63 +4383,25 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "えっ・・うそっ・・・"
+                    "Huh... No way..."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "やだっ・・・近寄らないで・・・やめて・・"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
@@ -4459,25 +4421,25 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ど、どこ狙ってるの・・・うそでしょ・・"
+                    "No... Don't come any closer... Stop..."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
@@ -4497,7 +4459,45 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "うそでしょ・・！！"
+                    "W-What are you aiming for... This can't be\ntrue..."
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 5,
+                "parameters": [
+                    "No way...!!"
                 ]
             },
             {
@@ -4563,7 +4563,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "いやああああっ！？！？？！"
+                    "N-No wayyy!?!"
                 ]
             },
             {
@@ -4598,7 +4598,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "だめぇっ・・・おしこまないでぇ・・いたいっ・・いたいよ！！"
+                    "No... Don't force yourself... It hurts... It\nhurts!!"
                 ]
             },
             {
@@ -4641,7 +4641,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "いやああっ！！！"
+                    "Nooo!!!"
                 ]
             },
             {
@@ -4684,7 +4684,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "つううっ・・・！！！"
+                    "Tsuuu...!!!"
                 ]
             },
             {
@@ -4701,14 +4701,14 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ぐちっ・・・ぐちっ・・・・！！"
+                    "Guchii... Guchii...!! Zupan... Zuppo...!!"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "ズパン・・・・ズポッ・・・！！"
+                    ""
                 ]
             },
             {
@@ -4725,7 +4725,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "グポッ・・・ズボッ・・・！！"
+                    "Gulp... Throb...!!"
                 ]
             },
             {
@@ -4742,7 +4742,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "（私の大事な所・・・犯されちゃった・・・）"
+                    "(My precious place... has been violated...)"
                 ]
             },
             {
@@ -4759,14 +4759,14 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ぐちっ・・・ぐちっ・・・・！！"
+                    "Gulp... Throb...!!"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "ズパン・・・・ズポッ・・・！！"
+                    ""
                 ]
             },
             {
@@ -4783,7 +4783,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "やあっ・・くうっ・・・！！！"
+                    "Hi... Ahh...!!!"
                 ]
             },
             {
@@ -4865,63 +4865,25 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "おっぱいだめぇ・・っ・・！！"
+                    "No... not the breasts...!!"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "あっ・・・ぐにぐにしちゃだめぇ・・！！"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
@@ -4941,25 +4903,25 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "こんな植物型の生物が人を襲うなんてっ・・"
+                    "Ah... don't squeeze me so much...!!"
                 ]
             },
             {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "聞いたことないよぉっ・・！！"
-                ]
-            },
-            {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
@@ -4979,14 +4941,52 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ああっ・・すごい動きっ・・おかしいよこんなのっ・・"
+                    "I've never heard of a plant-like creature\nattacking people like this...!"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
                 ]
             },
             {
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "植物に弄ばれてる・・・！！"
+                    "Ah... such intense movements... this is so\nstrange... being toyed with by plants...!!"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
                 ]
             },
             {
@@ -5021,25 +5021,25 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "なっ、なに！？"
+                    "What, what is it!?"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
@@ -5059,7 +5059,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "（中で何かがあばれ出した・・・！？）"
+                    "(Something is going wild inside...!?)  Note: The\ncontext suggests that there is something happening\ninside a character, but it is not specified which\ncharacter it is."
                 ]
             },
             {
@@ -5118,49 +5118,11 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ぐちゅっ・・・！！"
+                    "*Squelch...!! Squirm...!!*"
                 ]
             },
             {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "きゅるるっ・・！！"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "やあっ！！"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "（乳首があついよおっ・・！！）"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
@@ -5180,7 +5142,45 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "（おっぱいの中何かがかき回してるっ・・）"
+                    "Hi!! (My nipples are so hot..!!)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 5,
+                "parameters": [
+                    "(Something is stirring inside my breasts..)"
                 ]
             },
             {
@@ -5197,14 +5197,14 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ずるっ・・・ずちゅっ・・・！"
+                    "*Squelch...!! Squirm...!!*"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "ちゅるっ・・ちゅるっ・・！"
+                    ""
                 ]
             },
             {
@@ -5247,49 +5247,11 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "んんんんっ！？"
+                    "Hmm...!? (My head feels numb...)"
                 ]
             },
             {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "（頭がしびれちゃ・・・っ）"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "（どうなってるのっ・・急にカラダがゾクゾクして・・）"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
@@ -5309,25 +5271,63 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "（何か触手の先から注入されたの・・！？）"
+                    "(What's happening... My body suddenly feels\ntingly...)"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
                 "code": 401,
+                "indent": 5,
+                "parameters": [
+                    "(Something was injected from the tip of the\ntentacles...!?)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
@@ -5347,14 +5347,14 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ずるっ・・・ずちゅっ・・・！"
+                    "*Squelch... squirm...! Slurp... slurp...!*"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "ちゅるっ・・ちゅるっ・・！"
+                    ""
                 ]
             },
             {
@@ -5371,7 +5371,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "やだ・・・んんっ・・こわいよ・・体がおかしいっ・・。"
+                    "No... nngh... it's scary... something's wrong\nwith my body..."
                 ]
             },
             {
@@ -5414,111 +5414,11 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "はあんっ・・・・！！？"
+                    "Haa...!!? (My head... feels numb... ugh...)"
                 ]
             },
             {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "（あたま・・しびれちゃ・・っっ・・）"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "ずるっ・・・ずちゅっ・・・！"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "ちゅるっ・・ちゅるっ・・！"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "くううっ・・・だめぇっ・・・！！"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "（赤ちゃん作る所もかきまわされちゃってる・・・！！）"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
@@ -5538,66 +5438,11 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ぐちょっ・・・ずこっ・・・！"
+                    "*Squelch... squirm...! Slurp... slurp...!*"
                 ]
             },
             {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "ちゅるるっ・・くちゅっ・・！"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "（そんな奥までっ・・・いじっちゃだめっっ・・・）"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "ああっ！！"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "奥だめぇつ・・・赤ちゃんつくる卵あるからぁっ・・！！"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
@@ -5617,7 +5462,66 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "たまご・・いじっちゃやだぁ・・っ！！"
+                    "Kuuu... Nooo...!!"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 5,
+                "parameters": [
+                    "(Even the place where babies are made is being\nstirred up...!!)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
                 ]
             },
             {
@@ -5634,38 +5538,14 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ぐちょっ・・・ずこっ・・・！"
+                    "*Squelch...!! Squirm...!!*"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "ちゅるるっ・・くちゅっ・・！"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "んんんんっ\\I[0]"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "ああああだめぇぇえっ\\I[0]"
+                    ""
                 ]
             },
             {
@@ -5682,7 +5562,62 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "赤ちゃん作れなくなっちゃううううっっ！！"
+                    "(Don't touch me so deep... please...)"
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 5,
+                "parameters": [
+                    "Aahh!! Don't go so deep... because there are eggs\nfor making babies...!!"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 5,
+                "parameters": [
+                    "Eggs... I don't want them touched...!!"
                 ]
             },
             {
@@ -5699,38 +5634,14 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ぐちょっ・・・ずこっ・・・！"
+                    "*Squelch... squirm...! Slurp... slurp...!*"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "ちゅるるっ・・くちゅっ・・！"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "んっ\\I[0]あっ・・・ああっ・・・\\I[0]"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "（ダメ・・ダメなのに・・カラダがおかしいよ・・）"
+                    ""
                 ]
             },
             {
@@ -5747,14 +5658,31 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "んああっ・・\\I[0]"
+                    "Mmm... aah... nooo..."
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
                 ]
             },
             {
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "はあっ・・・\\I[0]"
+                    "I won't be able to make babies anymoreeee!!"
                 ]
             },
             {
@@ -5771,14 +5699,14 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ぐちょっ・・・ずこっ・・・！"
+                    "*Squelch... squirm...! Slurp... slurp...!*"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "ちゅるるっ・・くちゅっ・・！"
+                    ""
                 ]
             },
             {
@@ -5795,14 +5723,86 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ひああっ・・\\I[0]"
+                    "Mmm... Ahh... Ahhh... (No... Even though it's\nwrong... my body feels strange...)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
                 ]
             },
             {
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "はなしてぇっ・・もうっ・・\\I[0]"
+                    "Ngh... Ahh... Ahh..."
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 5,
+                "parameters": [
+                    "*Squelch...!! Squirm...!!*"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 5,
+                "parameters": [
+                    "Hiaa... Please... let go... already..."
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
                 ]
             },
             {
@@ -5861,49 +5861,11 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "んひゃあああっ\\I[0]\\I[0]"
+                    "Nhyaaa! \\I[0]\\I[0] Don't suddenly pull it out,\npleeaasee! \\I[0]\\I[0]"
                 ]
             },
             {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "いきなり抜いちゃだめぇぇっ・・\\I[0]\\I[0]"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "はぁっ・・・はぁっ・・・\\I[0]"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "もうっ・・だめ・・・だめ・・・なのに・・・。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
@@ -5923,63 +5885,25 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "（だめなのにどうして・・・！！体が疼くよぉぉ・・\\I[0]）"
+                    "*Haa... haa... \\I[0] No... no... I shouldn't...\nbut...*"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "（体の芯がうずいちゃうううっ・・・\\I[0]）"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
@@ -5999,63 +5923,25 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "（だめなのに・・・だめなのに・・・）"
+                    "(Even though it's wrong...!! My body is\nthrobbing... \\I[0])"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "（こんな地中で触手に体中這いずり回られて・・・）"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
@@ -6075,25 +5961,25 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "（乳首の奥も・・赤ちゃん作るたまごも犯されて・・）"
+                    "(My core is throbbing... \\I[0])"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
@@ -6113,7 +5999,121 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "（どおしてキモチいいのおおっ・・・！！）"
+                    "(Even though it's wrong... even though it's\nwrong...)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 5,
+                "parameters": [
+                    "(Being crawled all over by tentacles in a place\nlike this...)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 5,
+                "parameters": [
+                    "(Even the depths of my nipples... and the eggs\nthat create babies... are violated...)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 5,
+                "parameters": [
+                    "(Why does it feel so good...!!)"
                 ]
             },
             {
@@ -6172,7 +6172,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "んああああああ\\I[0]\\I[0]\\I[0]"
+                    "Naaaahhh..."
                 ]
             },
             {
@@ -6189,14 +6189,14 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ぐちょっ・・・ずこっ・・・！"
+                    "*Squelch... slurp...! Chururu... kuchu...!*"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "ちゅるるっ・・くちゅっ・・！"
+                    ""
                 ]
             },
             {
@@ -6213,14 +6213,14 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ずぼっ・・・ずちゅっ・・！！"
+                    "*Squelch... slurp...!! Squish... smooch...!!*"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "ずこっ・・・ぶちゅっ・・・！！"
+                    ""
                 ]
             },
             {
@@ -6237,86 +6237,14 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "アッ\\I[0]アッ\\I[0]"
+                    "Ah... ah... ngh..."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "んあっ・・\\I[0]"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "ふうっ・・・はひっ\\I[0]"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "んぐっ・・・んはぁっ・・・・\\I[0]"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "ずぼっ・・・ずちゅっ・・！！"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "ずこっ・・・ぶちゅっ・・・！！"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "ぐちょっ・・・ずこっ・・・！"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "ちゅるるっ・・くちゅっ・・！"
+                    ""
                 ]
             },
             {
@@ -6333,14 +6261,86 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ひっ・・・んぐっ・・・\\I[0]"
+                    "*Huff... Hah...*"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
                 ]
             },
             {
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "んむぅぅっ・・・\\I[0]"
+                    "*Squelch... slurp...!! Squish... smooch...!!*"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 5,
+                "parameters": [
+                    "*Squelch... slurp...! Chururu... kuchu...!*"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 5,
+                "parameters": [
+                    "*Hnngh...* *Mmm...*"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
                 ]
             },
             {
@@ -6399,25 +6399,25 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "んぎっ\\I[0]\\I[0]\\I[0]"
+                    "*Ngh...* \\I[0]\\I[0]\\I[0]"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
@@ -6437,7 +6437,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "（抜かれた瞬間っ・・頭まっしろになるっ・・・\\I[0]）"
+                    "(The moment I'm pulled out... my mind goes\nblank... \\I[0])"
                 ]
             },
             {
@@ -6496,38 +6496,14 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "んああああっ\\I[0]\\I[0]\\I[0]"
+                    "*Naaaahhh...\\I[0]\\I[0]\\I[0] It's getting weird...\nIt's getting weird...\\I[0]*"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "おかしくなるっ・・おかしくなるっ・・・\\I[0]"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "ずぼっ・・・ずちゅっ・・！！"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "ずこっ・・・ぶちゅっ・・・！！"
+                    ""
                 ]
             },
             {
@@ -6544,14 +6520,38 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ぐちょっ・・・ずこっ・・・！"
+                    "*Squelch... slurp...!! Squish... smooch...!!*"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
                 ]
             },
             {
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ちゅるるっ・・くちゅっ・・！"
+                    "*Squelch... slurp...! Chururu... kuchu...!*"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
                 ]
             },
             {
@@ -6568,14 +6568,14 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "あっあっあっ・・\\I[0]"
+                    "Ah... ah... ah... *Huff... ah...*"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "んあっ・・・やはぁっ・・・\\I[0]\\I[0]\\I[0]"
+                    ""
                 ]
             },
             {
@@ -6634,25 +6634,25 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "んああああっ！！"
+                    "Naaahhh!! Don't pull it out... \\I[0]\\I[0]\\I[0]"
                 ]
             },
             {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "抜いちゃやあっ・・・\\I[0]\\I[0]\\I[0]"
-                ]
-            },
-            {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
@@ -6672,7 +6672,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "（もうダメッ・・気持ちよくなりたいっっ・・\\I[0]）"
+                    "(I can't take it anymore... I want to feel\ngood... \\I[0])"
                 ]
             },
             {
@@ -6731,104 +6731,66 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ああああ\\I[0]\\I[0]"
+                    "Aaahhh... it feels so good... it feels so good...\n\\I[0]"
                 ]
             },
             {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "きもちいいっ・・きもちいいよぉぉっ・・・\\I[0]\\I[0]\\I[0]"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "ぶちゅっ・・ぐちゅ！！"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "どちゅ！！"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "ぬちゅ・・・！！"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "ちゅぶぶっ・・・ずちゅっ・・！！"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "ぐちゅっ・・ぱちゅんっ！！"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "んああっ・・かきまわされちゃうっ\\I[0]"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "乳首の中も赤ちゃん作るとこもキモチイイよっ\\I[0]\\I[0]\\I[0]"
-                ]
-            },
-            {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
                 "code": 401,
+                "indent": 5,
+                "parameters": [
+                    "*Squelch... slurp...!! Chururu... kuchu...!!*"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 5,
+                "parameters": [
+                    "*Squelch... slurp...!! Squish... smooch...!!*"
+                ]
+            },
+            {
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
@@ -6848,14 +6810,52 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "はあっ\\I[0]"
+                    "Naaahhh... I'm being toyed with... \\I[0] It feels\nso good inside my nipples and the place where\nbabies are made... \\I[0]\\I[0]\\I[0]"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
                 ]
             },
             {
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "んあああっ\\I[0]"
+                    "Haa... aahhh..."
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
                 ]
             },
             {
@@ -6872,21 +6872,21 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ぶちゅっ・・ぐちゅ！！"
+                    "*Squelch... slurp...!! Chururu... kuchu...!!*"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "どちゅ！！"
+                    ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "ぬちゅ・・・！！"
+                    ""
                 ]
             },
             {
@@ -6903,14 +6903,14 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ちゅぶぶっ・・・ずちゅっ・・！！"
+                    "*Squelch... slurp...!! Squish... smooch...!!*"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "ぐちゅっ・・ぱちゅんっ！！"
+                    ""
                 ]
             },
             {
@@ -6953,14 +6953,14 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ああっ\\I[0]"
+                    "Aahh... \\I[0] (I'm being injected with something\nstrange again...!!)"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "（また変なの注入されちゃってる・・・！！）"
+                    ""
                 ]
             },
             {
@@ -6977,21 +6977,21 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ぶちゅっ・・ぐちゅ！！"
+                    "*Squelch... slurp...!! Chururu... kuchu...!!*"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "どちゅ！！"
+                    ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "ぬちゅ・・・！！"
+                    ""
                 ]
             },
             {
@@ -7008,73 +7008,11 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ちゅぶぶっ・・・ずちゅっ・・！！"
+                    "*Squelch... slurp...!! Squish... smooch...!!*"
                 ]
             },
             {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "ぐちゅっ・・ぱちゅんっ！！"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "はあっ\\I[0]"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "んあああっ\\I[0]"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "もっ・・もうっ・・なんか・・なんかおかしいよっ・・\\I[0]"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "んんんっ・・・\\I[0]\\I[0]\\I[0]"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
@@ -7094,25 +7032,11 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "なんか・・・・なんかくるっ・・・\\I[0]"
+                    "Haa... aahhh..."
                 ]
             },
             {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
@@ -7132,63 +7056,25 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "なんかきちゃう・・きちゃうっ・・・\\I[0]\\I[0]\\I[0]"
+                    "M-Mou... something... something feels strange...\n\\I[0]Nnnn...\\I[0]\\I[0]\\I[0]"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "んああっ\\I[0]はぁっ\\I[0]"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "（なにこれっ・・のぼりつめちゃうっっ）"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
@@ -7208,25 +7094,25 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "なんかくるっ・・・だめっ・・・もっ・・・"
+                    "Something... something is swirling... \\I[0]"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
@@ -7246,7 +7132,121 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "んあああああっ\\I[0]\\I[0]\\I[0]"
+                    "Something's happening... It's happening...\n\\I[0]\\I[0]\\I[0]"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 5,
+                "parameters": [
+                    "Nn... aahh... \\I[0]Haa... \\I[0](What is this...\nit's overwhelming me...!!)"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 5,
+                "parameters": [
+                    "Something's swirling... No... Stop..."
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 5,
+                "parameters": [
+                    "Nn... aahh... \\I[0]Haa... \\I[0](What is this...\nit's overwhelming me...!!)"
                 ]
             },
             {
@@ -7305,63 +7305,25 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ああっ・・・！！"
+                    "Aahh...!! Just a little more..."
                 ]
             },
             {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "あと少しで・・・。"
-                ]
-            },
-            {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "はぁっ・・はぁっ・・・\\I[0]"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
@@ -7381,25 +7343,25 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ぬ、抜いちゃやぁ・・・・\\I[0]"
+                    "*Haa... haa...* \\I[0]"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
@@ -7419,7 +7381,45 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "（気持ちよくなりたいよぉ・・・\\I[0]）"
+                    "I-I'm gonna... pull it out... \\I[0]"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 5,
+                "parameters": [
+                    "(I want to feel good... \\I[0])"
                 ]
             },
             {
@@ -7478,7 +7478,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "んはああああっ\\I[0]\\I[0]\\I[0]"
+                    "Nhaaahh..."
                 ]
             },
             {
@@ -7495,14 +7495,14 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ぶちゅっ・・ぐちゅ！！"
+                    "*Squish... squelch!! Splat!!*"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "どちゅ！！"
+                    ""
                 ]
             },
             {
@@ -7519,49 +7519,11 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ずこっ・・・ぱちゅっ・・・！！"
+                    "*Thrust... squelch...!! Suck... squish...!!*"
                 ]
             },
             {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "ぬちゅっ・・ぐちゅっ！！"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "はあっ\\I[0]ああっ\\I[0]いいっ\\I[0]"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "きもちいいよぉっ\\I[0]"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
@@ -7581,49 +7543,25 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "全部気持ちいいっ\\I[0]乳首もアソコもっ\\I[0]"
+                    "*Haa... aahh... it feels so good...!!*"
                 ]
             },
             {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "おかしくなるっ\\I[0]おかしくなるううっ\\I[0]"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "ああっ\\I[0]"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "またくるっ・・・なんかくるっ\\I[0]\\I[0]\\I[0]"
-                ]
-            },
-            {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
@@ -7643,14 +7581,76 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "だめっ・・あああっ\\I[0]"
+                    "It feels so good... \\I[0] Both my nipples and my\nprivate parts... \\I[0] They're going crazy...\n\\I[0] They're going crazy... \\I[0]"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
                 ]
             },
             {
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "きちゃうううううっ\\I[0]\\I[0]\\I[0]"
+                    "Aahh, I'm coming again... It's coming... It's\ncoming... It's coming..."
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 5,
+                "parameters": [
+                    "No... Ahhh... I'm gonna... cummm...\n\\I[0]\\I[0]\\I[0]"
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
                 ]
             },
             {
@@ -7709,87 +7709,25 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "んあああっ・・・！！"
+                    "Naaahhh...!!"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "植物に弄ばれちゃってるっ・・・"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "はぁっ・・はぁっ・・。"
-                ]
-            },
-            {
-                "code": 101,
-                "indent": 5,
-                "parameters": [
-                    "berue",
-                    0,
-                    0,
-                    2
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "おかしくなっちゃう・・・お願い・・\\I[0]"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    "はぁっ・・・はぁ・・・\\I[0]"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 5,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
@@ -7809,7 +7747,69 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "もっと・・もっとほしいよ・・・\\I[0]\\I[0]"
+                    "I-I'm being toyed with by plants... haa...\nhaa..."
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 5,
+                "parameters": [
+                    "I'm going crazy... Please... \\I[0] Haa... haa..."
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 0,
+                "indent": 5,
+                "parameters": [
+                    ""
+                ]
+            },
+            {
+                "code": 101,
+                "indent": 5,
+                "parameters": [
+                    "berue",
+                    0,
+                    0,
+                    2
+                ]
+            },
+            {
+                "code": 401,
+                "indent": 5,
+                "parameters": [
+                    "I want more... I want more... \\I[0]\\I[0]"
                 ]
             },
             {
@@ -7868,7 +7868,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "んああああああっ\\I[0]\\I[0]\\I[0]"
+                    "Naaahhh..."
                 ]
             },
             {
@@ -7885,14 +7885,14 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ぶちゅっ・・ぐちゅ！！"
+                    "*Thrust... squelch...!! Suck... squish...!!*"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "どちゅ！！"
+                    ""
                 ]
             },
             {
@@ -7909,14 +7909,14 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ずこっ・・・ぱちゅっ・・・！！"
+                    "*Thrust... squelch...!! Suck... squish...!!*"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "ぬちゅっ・・ぐちゅっ！！"
+                    ""
                 ]
             },
             {
@@ -7933,14 +7933,14 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "んんんっ\\I[0]\\I[0]\\I[0]"
+                    "Mmm... \\I[0]\\I[0]\\I[0] Mmm... ~~~\n\\I[0]\\I[0]\\I[0]"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "ンンンン～～～～～～\\I[0]\\I[0]\\I[0]"
+                    ""
                 ]
             },
             {
@@ -8042,7 +8042,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "（んあああっ\\I[0]耳だめぇぇっ・・・\\I[0]\\I[0]\\I[0]）"
+                    "(Naaahhh... \\I[0] Don't touch my ears...\n\\I[0]\\I[0]\\I[0])"
                 ]
             },
             {
@@ -8111,7 +8111,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "（あアッ・・頭の中・・直接っ・・いじくられてるっ・・\\I[0]）"
+                    "(Ah... My mind... It's being directly... messed\nwith... \\I[0])"
                 ]
             },
             {
@@ -8146,14 +8146,14 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ぶちゅっ・・ぐちゅ！！"
+                    "*Squelch... squish!! Suck!!*"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "どちゅ！！"
+                    ""
                 ]
             },
             {
@@ -8170,14 +8170,14 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ずこっ・・・ぱちゅっ・・・！！"
+                    "*Squelch... squish...!! Suck... squelch...!!*"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "ぬちゅっ・・ぐちゅっ！！"
+                    ""
                 ]
             },
             {
@@ -8220,7 +8220,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "（くるっ・・・くるっ・・・\\I[0]\\I[0]\\I[0]）"
+                    "(*Squelch... squelch...*)"
                 ]
             },
             {
@@ -8237,14 +8237,14 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ぶちゅっ・・ぐちゅ！！"
+                    "*Squelch... squish...!! Suck...!!*"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "どちゅ！！"
+                    ""
                 ]
             },
             {
@@ -8261,14 +8261,14 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ずこっ・・・ぱちゅっ・・・！！"
+                    "*Squelch... squish...!! Suck... squelch...!!*"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "ぬちゅっ・・ぐちゅっ！！"
+                    ""
                 ]
             },
             {
@@ -8285,7 +8285,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "（もうだめっ\\I[0]\\I[0]\\I[0]）"
+                    "(I can't take it anymore \\I[0]\\I[0]\\I[0])"
                 ]
             },
             {
@@ -8328,14 +8328,14 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ぱちゅ・・ぱちゅっ・・！！"
+                    "*Pat... pat...!! *Squelch... squish...!!*"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "ぐちっ・・ぶちゅっ・・！！"
+                    ""
                 ]
             },
             {
@@ -8352,14 +8352,14 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "ぶちゅっ・・ぐちゅ！！"
+                    "*Squelch... squish...!! Suck...!!*"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "どちゅ！！"
+                    ""
                 ]
             },
             {
@@ -8376,7 +8376,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "（ンああああああああああああっ\\I[0]\\I[0]\\I[0]）"
+                    "(Nn... Ahh... \\I[0]\\I[0]\\I[0])"
                 ]
             },
             {
@@ -8461,25 +8461,25 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "こうしてベルエは、触手の海に飲まれたまま"
+                    "And thus, Belle was swallowed by a sea of\ntentacles."
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
                     ""
@@ -8499,7 +8499,7 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "延々快楽漬けにされ続けるのでした・・。"
+                    "They continued to be immersed in endless\npleasure..."
                 ]
             },
             {
@@ -8516,14 +8516,14 @@
                 "code": 401,
                 "indent": 5,
                 "parameters": [
-                    "　　　　　　　　　　　"
+                    "ＢＡＤＥＮＤ"
                 ]
             },
             {
-                "code": 401,
+                "code": 0,
                 "indent": 5,
                 "parameters": [
-                    "　　　　　　　　　　　ＢＡＤ　ＥＮＤ"
+                    ""
                 ]
             },
             {

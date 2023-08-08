@@ -1219,25 +1219,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よお、ベルエちゃん！"
+                                "Hey, Belle-chan! Do you know anything about my\nidiot son?"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うちのバカ息子しらねぇか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -1257,14 +1257,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ～いつ使いっぱしり頼んだっきり"
+                                "Ah~ I asked them to use it and they haven't come\nback yet!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "帰ってきやしねぇ！"
+                                ""
                             ]
                         },
                         {
@@ -1281,14 +1281,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ったくどこで油売ってんだ！"
+                                "Where the hell is he selling oil?! That idiot son\nof mine!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あのばか息子は！"
+                                ""
                             ]
                         },
                         {
@@ -1365,14 +1365,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ！ベルエじゃん！"
+                                "Oh! It's Belle! You seem a bit down, what's\nwrong??"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何か元気ねーな、どうした？？"
+                                ""
                             ]
                         },
                         {
@@ -1389,14 +1389,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おら、クロト！"
+                                "Hey, Clot! Your hands have stopped, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "手が止まってんだろー！"
+                                ""
                             ]
                         },
                         {
@@ -1435,7 +1435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さっさと仕事終わらせろいっ！"
+                                "Hurry up and finish your work!"
                             ]
                         },
                         {
@@ -1452,25 +1452,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "い、いってぇ～！"
+                                "O-Ouch! Don't get so angry, please~!!"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなに怒るなよぉ～！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -1490,14 +1490,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・わりぃ、ベルエ！"
+                                "...Sorry, Belle! That's why, next time, okay!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そんなわけだから、また今度なっ！"
+                                ""
                             ]
                         },
                         {
@@ -1514,7 +1514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わりぃな、ベルエちゃん！"
+                                "Sorry, Belle!"
                             ]
                         },
                         {
@@ -1582,25 +1582,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よお、ベルエちゃん！"
+                                "Hey, Belle-chan! Do you know anything about my\nidiot son?"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うちのバカ息子しらねぇか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -1620,7 +1620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんの野郎まーたいなくなりやがった！"
+                                "That idiot disappeared again!"
                             ]
                         },
                         {
@@ -1646,7 +1646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "帰ってきたらただじゃおかねえ！"
+                                "When he comes back, he won't get away with it!"
                             ]
                         },
                         {
@@ -1723,66 +1723,11 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よお、ベルエちゃん！"
+                                "Hey, Belle-chan! I hope Dharma-sama gets better\nsoon!"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ダーマ様、早く良くなるといいな！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "oyaji",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ところで、うちのバカしらねぇか？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "oyaji",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "晩飯の食材のキノコ探しに行かせたっきり・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まーた帰ってこねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -1802,7 +1747,62 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "帰ってきたらキノコ鼻に突っ込んで逆さ吊りだな。"
+                                "By the way, do you know about our idiot?"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "oyaji",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I sent them out to search for mushrooms for\ndinner, but they still haven't come back!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "oyaji",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "When they come back, make them stick mushrooms up\ntheir nose and hang them upside down."
                             ]
                         },
                         {
@@ -1879,25 +1879,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よお、ベルエちゃん！"
+                                "Hey, Belle! How's everything going?"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "色々順調か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -1917,7 +1917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大変だと思うけど、早くダーマ様治してやってくれよな！"
+                                "I know it's tough, but please cure Lord Dharma as\nsoon as possible!"
                             ]
                         },
                         {
@@ -2036,25 +2036,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よお、ベルエちゃん！"
+                                "Hey, Belle!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -2074,14 +2074,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うちのクソガキが使いっぱしりに行ったきり"
+                                "My damn brat went out and hasn't come back again!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "まーた帰ってこねぇ！"
+                                ""
                             ]
                         },
                         {
@@ -2098,7 +2098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "帰ったらケツの穴から大音量でラッパ吹いてやる。"
+                                "When they come back, I'll blow the trumpet loudly\nfrom their rear end."
                             ]
                         },
                         {
@@ -2166,7 +2166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よお、ベルエちゃん・・・。"
+                                "Hey, Belle..."
                             ]
                         },
                         {
@@ -2183,121 +2183,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダーマ様治ったって？"
+                                "Darma-sama has recovered? That's great to hear..."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よかったなぁ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "oyaji",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんだけどよぉ・・実はさぁ・・。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "oyaji",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うちのクソガキがどうにもグレちまってよ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全然帰ってこねぇんだ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "oyaji",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "母親がいねぇってのはやっぱり・・・くっ・・。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "oyaji",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "辛い思いさせちまってたんだろうなぁ・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -2317,7 +2221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もっと考えてやればよかったなぁ・・・っ。"
+                                "Um, you know... Actually..."
                             ]
                         },
                         {
@@ -2334,25 +2238,11 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "厳しくしすぎた俺が悪かったよぉおお！"
+                                "My damn brat has gone completely off the rails...\nThey haven't come back at all."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帰って来いよおおおクロトよおおおい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -2372,7 +2262,117 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おーーーんおんおん・・・。"
+                                "Not having a mother... is really... damn..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "oyaji",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I must have made you go through a lot of pain..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "oyaji",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I should have thought more about it..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "oyaji",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I was too strict, I'm sorryyy! Come back, Clot,\npleeaase!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "oyaji",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Ooooon, oonoon...."
                             ]
                         },
                         {
@@ -2440,14 +2440,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ！！"
+                                "Ah!! This stupid child!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こんの馬鹿息子が！！"
+                                ""
                             ]
                         },
                         {
@@ -2485,25 +2485,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこほっつき歩いてやがったんだ！！"
+                                "Where did that stupid child wander off to!! How\nmuch do they think I've been worried?!"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どれだけ心配したと思ってる！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -2523,14 +2523,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こっちきやがれ！！"
+                                "Come here, you!! I'll beat you to a pulp!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "叩きのめしてやるっ！！"
+                                ""
                             ]
                         },
                         {
@@ -2586,14 +2586,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぎゃあああ！！"
+                                "Gyaaa!! Stop itttt!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "やめてぇぇぇえ！！"
+                                ""
                             ]
                         },
                         {
@@ -2610,14 +2610,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この親不孝もんめが！！"
+                                "You disobedient child!! How dare you do this to\nme, how dare you?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "こうしてくれるっ、こうしてくれるっ！！"
+                                ""
                             ]
                         },
                         {
@@ -2717,7 +2717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐあ・・・ごめ・・・ん・・なさぃぃ・・。"
+                                "Gua... I'm... sor...ry..."
                             ]
                         },
                         {
@@ -2836,7 +2836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クロトはオヤジに捕まってしまった・・・！！"
+                                "Clot has been caught by the old man...!!"
                             ]
                         },
                         {
@@ -2978,14 +2978,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ！ベルエじゃん！"
+                                "Oh! It's Belle! You seem a bit down, what's\nwrong??"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何か元気ねーな、どうした？？"
+                                ""
                             ]
                         },
                         {
@@ -3002,14 +3002,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おら、クロト！"
+                                "Hey, Clot! Your hands have stopped, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "手が止まってんだろー！"
+                                ""
                             ]
                         },
                         {
@@ -3048,7 +3048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さっさと仕事終わらせろいっ！"
+                                "Hurry up and finish your work!"
                             ]
                         },
                         {
@@ -3065,25 +3065,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "い、いってぇ～！"
+                                "O-Ouch! Don't get so angry, please~!!"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなに怒るなよぉ～！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -3103,14 +3103,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・わりぃ、ベルエ！"
+                                "...Sorry, Belle! That's why, next time, okay!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そんなわけだから、また今度なっ！"
+                                ""
                             ]
                         },
                         {
@@ -3127,7 +3127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わりぃな、ベルエちゃん！"
+                                "Sorry, Belle!"
                             ]
                         },
                         {
@@ -3246,7 +3246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よ・・よぉベルエ・・・！"
+                                "H-hey... hey there, Belle...!"
                             ]
                         },
                         {
@@ -3263,7 +3263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どしたぁ～・・・・？"
+                                "What's wrong...?"
                             ]
                         },
                         {
@@ -3289,7 +3289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（声すっごいうわずってるけど・・・）"
+                                "(Their voice sounds really nervous...)"
                             ]
                         },
                         {
@@ -3357,7 +3357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっっ・・・・ベルエ！！！"
+                                "Ahh... Belle!!!"
                             ]
                         },
                         {
@@ -3390,25 +3390,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ご、ごめん・・・"
+                                "S-Sorry... Lately, I've been going out without\npermission and breaking curfew..."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最近俺が無断で外出とか、門限破ったりとかしてたから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -3428,25 +3428,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "外出禁止にされちまって・・・。"
+                                "I've been prohibited from going out..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -3475,7 +3475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（そ、そんな・・・）"
+                                "(I-I didn't mean to...)"
                             ]
                         },
                         {
@@ -3508,7 +3508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今回は本当に怒ってるみたい・・・。"
+                                "It seems like they're really angry this time..."
                             ]
                         },
                         {
@@ -3547,7 +3547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いでっ！！！！"
+                                "I'm coming!!!"
                             ]
                         },
                         {
@@ -3564,63 +3564,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごめんな、ベルエちゃん。"
+                                "I'm sorry, Belle. My incompetent child has been\ncausing trouble."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うちの出来の悪い息子が迷惑かけちまって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "oyaji",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しばらくこいつは外出禁止だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しっかり反省してもらう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -3640,14 +3602,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなもんで、悪いけど、しばらくこいつのことは"
+                                "This person will be prohibited from going out for\na while. They will reflect on their actions\nproperly."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "oyaji",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほっといてやってくれ。"
+                                "Sorry, but please leave this person alone for a\nwhile."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3671,7 +3671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ホントにごめん・・・こんな時に・・・・くそっ）"
+                                "(I'm really sorry... at a time like this... damn\nit)"
                             ]
                         },
                         {
@@ -3697,7 +3697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わかりました・・・。"
+                                "Understood..."
                             ]
                         },
                         {
@@ -3714,14 +3714,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クロト・・・。"
+                                "Clot... Thank you for listening and giving me\nadvice about various things."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "色々、相談に乗ってくれて・・・ありがとうね。"
+                                ""
                             ]
                         },
                         {
@@ -3738,14 +3738,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お、おう。"
+                                "Y-Yeah. Don't worry about it..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "気にすんなよ・・・。"
+                                ""
                             ]
                         },
                         {
@@ -3778,7 +3778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごめんなさい。"
+                                "I'm sorry."
                             ]
                         },
                         {
@@ -3802,25 +3802,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ごめんなさい・・・？）"
+                                "(I'm sorry...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -3856,63 +3856,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（まさか・・・うそだろ？）"
+                                "(No way... It can't be true?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "kuroto",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（時間がないからって他のやつと・・・）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -3932,7 +3894,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（うそだろ・・・）"
+                                "(Just because there's no time, you're going with\nsomeone else...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3949,7 +3932,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（やめてくれ・・・やめてくれ・・・！！）"
+                                "(Is it a lie...?)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "kuroto",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "(Please stop... Please stop...!!)"
                             ]
                         },
                         {
@@ -4026,7 +4026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ベルエ・・・・ごめんっ）"
+                                "(Belle... I'm sorry)"
                             ]
                         },
                         {
@@ -4437,7 +4437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ああ～～～～～ちくしょうっ！！！）"
+                                "(Ahhhhhh, damn it!!!)"
                             ]
                         },
                         {
@@ -4476,7 +4476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いでっ！！！！"
+                                "Ouch!!!"
                             ]
                         },
                         {
@@ -4493,14 +4493,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブツブツうるせぇ！"
+                                "Shut up and focus on your work!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "黙って仕事しろぃ！"
+                                ""
                             ]
                         },
                         {
@@ -4526,7 +4526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（だああああっ、このままじゃベルエが・・・！！！）"
+                                "(Ahhhhh, at this rate Belle will...!!!)"
                             ]
                         },
                         {
@@ -4543,7 +4543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（やだああああ・・・そんなのいやだあああああ～・・・）"
+                                "(No... I don't want that... Nooooo~...)"
                             ]
                         },
                         {

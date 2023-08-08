@@ -2887,25 +2887,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あらベルエちゃんじゃないかい。"
+                                "Oh, isn't it Belle-chan?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -2925,14 +2925,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わざわざ宿に来なくたって"
+                                "You don't have to come all the way to the inn, you\nhave your own home, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "自分のおうちがあるだろ。"
+                                ""
                             ]
                         },
                         {
@@ -3000,25 +3000,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あらベルエちゃんじゃないかい。"
+                                "Oh, isn't it Belle-chan?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -3038,38 +3038,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は冒険者の一団が泊っててねぇ。"
+                                "Right now, a group of adventurers is staying here.\nIt's really busy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大忙しだよ。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "People1",
-                                5,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みーんな大男でさぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昼から大酒飲んでんだよ。"
+                                ""
                             ]
                         },
                         {
@@ -3086,14 +3062,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒場にでも行ってくれりゃあいいのに。"
+                                "They're all big guys, you know. They've been\ndrinking heavily since noon."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "People1",
+                                5,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "参っちゃうよねぇ。"
+                                "It would be nice if you could go to the tavern or\nsomething. It's getting crowded, you know."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3161,25 +3161,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あらベルエちゃんじゃないかい。"
+                                "Oh, isn't it Belle-chan?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -3199,14 +3199,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わざわざ宿に来なくたって"
+                                "You don't have to come all the way to the inn, you\nhave your own home, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "自分のおうちがあるだろ。"
+                                ""
                             ]
                         },
                         {
@@ -3274,63 +3274,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あら、クロト。"
+                                "Oh, Clot. Are you okay wandering around like this?"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなとこほっつき歩いてて大丈夫かい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "kuroto",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へへーん、俺は今家出中なんだっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帰ってやるもんか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -3350,25 +3312,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ベルエに会えなかったのはオヤジのせいなんだ！）"
+                                "Heheh, I'm currently running away from home!\nThere's no way I'm going back!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -3388,7 +3350,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（絶対ゆるすもんか・・・！）"
+                                "(It's all because of my old man that I couldn't\nmeet Belle!)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "kuroto",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "(I'll never forgive them...!)"
                             ]
                         },
                         {
@@ -3405,14 +3405,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どんな事情かしらないけど"
+                                "I don't know what the circumstances are, but I'm\nsure I'll be scolded severely by my old man again!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "またオヤジさんにこっぴどく叱られるよ！"
+                                ""
                             ]
                         },
                         {
@@ -3429,7 +3429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいんだよぉーだ！"
+                                "It's fine, you know!"
                             ]
                         },
                         {

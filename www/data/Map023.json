@@ -6199,7 +6199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "早く薬草取りに行かなきゃ。"
+                                "I have to go gather herbs quickly."
                             ]
                         },
                         {
@@ -6298,7 +6298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だめ・・力が強くて外に出られない・・・！！"
+                                "No... I'm too strong and can't go outside...!!"
                             ]
                         },
                         {
@@ -6397,7 +6397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（だめっ・・・力が強すぎる・・外に出られない・・！！）"
+                                "(No... Their strength is too strong... I can't get\nout...!!)"
                             ]
                         },
                         {
@@ -6521,25 +6521,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわっ、植物型の生物が沢山うようよしてる・・。"
+                                "Wow, there are so many plant-like creatures\nswarming around..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -6559,7 +6559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも普段人を襲ったりしないはずだから・・・。"
+                                "But they shouldn't usually attack people..."
                             ]
                         },
                         {
@@ -6604,7 +6604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なっ・・何か様子がおかしい！？"
+                                "W-What's wrong? Something seems off!"
                             ]
                         },
                         {
@@ -6661,7 +6661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "や、やだ、こっちへ近づいてくる！？"
+                                "N-No, they're coming closer to us!?"
                             ]
                         },
                         {
@@ -6678,49 +6678,11 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "怖い・・。"
+                                "Scary... If we get caught, it seems like something\nreally bad (BAD END) will happen..!"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "捕まったら大変な事（BAD END）になりそう・・！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "berue",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "慎重に進まないと・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -6740,7 +6702,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何かあったら魔法を使ってでも・・！！！"
+                                "We need to proceed with caution...!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "berue",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "If something happens, we should use magic to deal\nwith it...!!!"
                             ]
                         },
                         {
@@ -6776,63 +6776,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "植物型クリーチャーは近づくと襲ってきます！！"
+                                "Plant-like creatures will attack when they get\nclose!! You can defeat up to three of them with\nmagic."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "３体までは魔法で倒せます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それ以降は徐々にカラダの自由を奪われていきます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一定回数以上襲われてしまうと(BAD END)です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -6852,7 +6814,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うまく避けながらゴールを目指しましょう。"
+                                "After that, your body's freedom will gradually be\ntaken away. If you get attacked a certain number\nof times or more, it will result in a (BAD END)."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                1
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Let's aim for the goal while avoiding them\nskillfully."
                             ]
                         },
                         {
@@ -7067,25 +7067,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは・・・かなり大きな穴があいてる。"
+                                "This... has quite a big hole."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -7105,7 +7105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "下からは植物型の魔物が顔を出してるけど・・。"
+                                "From below, plant-like monsters are sticking their\nheads out..."
                             ]
                         },
                         {
@@ -7131,7 +7131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんとか飛び越えられれば・・やりすごせそう。"
+                                "If we can somehow jump over it... we might be able\nto make it through."
                             ]
                         },
                         {
@@ -7433,7 +7433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きゃああああっ！！！"
+                                "Kyaaaah!!!"
                             ]
                         },
                         {
@@ -7492,162 +7492,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっ・・・ちょっとぉぉ～！"
+                                "W-Wait... W-Wait a minute! L-Let me go!"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はっ、はなしてぇっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "berue",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱり襲ってくる・・こんなのおかしい・・！！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "berue",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（体中おさえつけられちゃってる・・！）"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "berue",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんなのよっ・・・すごい力・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くうううっ！！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "berue",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、魔法で退治しないとっ・・・魔法でっ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "berue",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "い、いたっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はなしてぇっ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "berue",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（せめて手が使えれば魔法が打てるのに・・！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -7667,25 +7530,86 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このっ・・このっ・・・！！"
+                                "They're attacking after all... This is absurd..!!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "berue",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ダメ、強すぎてびくともしないっ）"
+                                "(I'm being held down all over my body..!)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "berue",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "What is this... such incredible strength...!!\nUghhh!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "berue",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
                             "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "W-Well, we have to defeat them with magic... with\nmagic...!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "berue",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "I-I'm here! Let me go!"
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -7705,7 +7629,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くっ・・・どうしたら・・・！！"
+                                "(If only I could use my hands, I could cast\nmagic...!)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7722,14 +7667,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "！？"
+                                "Th-this... th-this...!! (No, they're too strong,\nnot even flinching...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（触手が足に伸びてくる・・何する気！？）"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7746,14 +7705,55 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やっ、やめて！"
+                                "Ugh... What should I do...?!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "berue",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "脱がさないでぇっ！"
+                                "!? (Tentacles are reaching towards my legs... What\nare they planning!?)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "berue",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "S-Stop! Don't undress me!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7805,25 +7805,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なっ、なんで靴だけ脱がすのよぉっ！"
+                                "W-Why are you only taking off my shoes?! This,\nthis is so unfair!"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このっ、このぉ～っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -7843,7 +7843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（まさか足のニオイが原因・・・？）"
+                                "(Could it be that the smell of my feet is the\ncause...?)"
                             ]
                         },
                         {
@@ -7860,38 +7860,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やだよぉっ、恥ずかしいよぉ～！"
+                                "N-No way, it's embarrassing! S-Stop... please\nstop!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "やっ、ちょ・・・やめて！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "berue",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へんたいっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へんたいっ！"
+                                ""
                             ]
                         },
                         {
@@ -7908,14 +7884,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やだよぉっ、恥ずかしいよぉ～！"
+                                "Pervert! Pervert!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "berue",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やっ、ちょ・・・やめて！"
+                                "N-No way, it's embarrassing! S-Stop... please\nstop!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7967,49 +7967,11 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "足の先にまで絡んできたっ・・いやっ！"
+                                "It's wrapping around even the tips of my feet...\nNo! It's so gross...!!"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ち悪いよっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "berue",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんでっ、足にこんなにまとわりつくのよっ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -8029,114 +7991,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人の足の感触楽しんでるみたいにっ・・・"
+                                "Why... why is it clinging to my legs like this...!"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いやっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "berue",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさかホントに足のニオイかいでるの～！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やだあ～っ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "berue",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ズリズリしてるっ・・・やめてぇぇっ！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "berue",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はなしてぇっ・・・・もぅっ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くううっ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "berue",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ち、ちからが強すぎて何もできないっ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -8156,42 +8029,11 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（助けを呼ぶ・・・？）"
+                                "It feels like it's enjoying the sensation of human\nlegs... No...!!"
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "berue",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（でもこんな洞窟の奥じゃ誰も・・・）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -8211,25 +8053,11 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（でもこのままじゃ・・・・）"
+                                "Could it really be because of the smell of my\nfeet~!? No way~!"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -8249,25 +8077,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、だれかっ！"
+                                "Rubbing... Please stop!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "berue",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "助けて～！！"
+                                "Please... stop... ughhh...."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -8287,7 +8118,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だれか～～～っ！"
+                                "M-My strength is too strong, I can't do\nanything...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8304,14 +8156,162 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、何・・・？"
+                                "(Should I call for help...?)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "berue",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何か出てきた・・・！？"
+                                "(But in the depths of this cave, there's no\none...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "berue",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "(But if it continues like this...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "berue",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "S-Someone! Help me~!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "berue",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Someone~!!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "berue",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "No, what...? Something is coming out...!?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8363,80 +8363,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なに・・・なんなの・・・本体？"
+                                "What... what is it... the main body?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "berue",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どっ・・どこ狙ってるのよっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "berue",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっ、そこはほんとにダメぇっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -8456,25 +8401,42 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダメダメダメぇぇっ！"
+                                "Wh-Where are you aiming...?!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "berue",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Hey, that's really not allowed!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -8494,63 +8456,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はなしてぇっ！"
+                                "No, no, nooo!"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ビクともしないよぉっ！）"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "berue",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こ、このままじゃもっとひどい目に・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -8570,25 +8494,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だれかぁっ！"
+                                "Let me go! (I won't budge at all!)"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "助けてっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -8608,7 +8532,83 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やだよぉおおっ！"
+                                "If, if it continues like this, I'll suffer even\nmore...!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "berue",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Someone! Help me!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "berue",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Nooo!"
                             ]
                         },
                         {
@@ -8762,7 +8762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クロト！！"
+                                "Clot!!"
                             ]
                         },
                         {
@@ -8779,7 +8779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベルエ！！"
+                                "Belle!!"
                             ]
                         },
                         {
@@ -8796,7 +8796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たすけてぇぇっ！！"
+                                "Help meee!!"
                             ]
                         },
                         {
@@ -8987,14 +8987,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベルエ！"
+                                "Belle! Are you okay?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫かっ！！"
+                                ""
                             ]
                         },
                         {
@@ -9011,49 +9011,11 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気をつけて！"
+                                "Be careful! This person... has incredible\nstrength...!"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こいつ・・・すごい力っ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "kuroto",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな時のためにダガー携帯しててよかった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -9073,25 +9035,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オヤジが作った最強のダガーだ！"
+                                "I'm glad I had a dagger with me for moments like\nthis!"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こいつを使って・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -9111,7 +9073,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "切り刻んでやるぞっ！！"
+                                "This is the strongest dagger made by the old man!\nI'll use this...!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9128,25 +9111,42 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どおおおりゃあああああああっ！！！"
+                                "I'll slice you up!!"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "kuroto",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Raaaaahhhhh!!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -9192,7 +9192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だりゃあああああああああああっ・・・！"
+                                "Raaaaahhhhh!!"
                             ]
                         },
                         {
@@ -9235,49 +9235,11 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よしっ、手が空いた！"
+                                "Alright, I have some free time! Belle, can you use\nmagic?"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ベルエ魔法使えるか！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "berue",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがとうっ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁっ、はぁっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -9297,7 +9259,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いっけぇぇぇぇ！"
+                                "Thank you...! *panting* *panting*"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "berue",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Take this!!"
                             ]
                         },
                         {
@@ -9454,7 +9454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁっ、はぁっ・・・。"
+                                "*panting* *panting*"
                             ]
                         },
                         {
@@ -9471,14 +9471,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁっ・・・はぁっ・・。"
+                                "*panting* *panting*... Are you okay, Belle...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫か・・・ベルエ・・・。"
+                                ""
                             ]
                         },
                         {
@@ -9495,7 +9495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんとか・・・大丈夫・・・みたい。"
+                                "Somehow... seems like... I'm okay."
                             ]
                         },
                         {
@@ -9512,7 +9512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よかった・・・ふぅ。"
+                                "I'm glad... *sigh*"
                             ]
                         },
                         {
@@ -9562,7 +9562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほら、立てるか？"
+                                "Hey, can you stand?"
                             ]
                         },
                         {
@@ -9579,7 +9579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん・・・あり、がと・・・。"
+                                "Yeah... thank you..."
                             ]
                         },
                         {
@@ -9596,7 +9596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "にしてもなんでお前こんなとこにいんだぁ？"
+                                "By the way, why are you here?"
                             ]
                         },
                         {
@@ -9613,14 +9613,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その奥にほら、薬草が生えてるの。"
+                                "Look, there are herbs growing over there. It seems\nthat they are necessary to make Lord Dharma's\nhealing medicine."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "それがダーマ様の治療薬を作るのに必要なんだって。"
+                                ""
                             ]
                         },
                         {
@@ -9637,14 +9637,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうなんか、でもまだ下に化け物うようよしてるしなぁ。"
+                                "I see, but there are still monsters lurking below.\nIt would be great if I could go and get them\ninstead."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "俺が代わりに取りにいければいいんだけど。"
+                                ""
                             ]
                         },
                         {
@@ -9817,14 +9817,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだ、俺ここジャンプしてみるからさ。"
+                                "I got it, I'll try jumping here. If I happen to\nget caught, please help me with your fire magic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もしとっつかまったら炎の魔法で助けてくれよ。"
+                                ""
                             ]
                         },
                         {
@@ -9841,7 +9841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一匹倒すくらいならまだ気力残ってないか？"
+                                "If it's just defeating one monster, do you still\nhave enough energy left?"
                             ]
                         },
                         {
@@ -9858,7 +9858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうね、それくらいなら・・大丈夫かも。"
+                                "Yeah, if it's just that... I might be okay."
                             ]
                         },
                         {
@@ -9875,7 +9875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも、無理しないで。"
+                                "But, don't push yourself too hard."
                             ]
                         },
                         {
@@ -9892,14 +9892,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まーかしとけって！"
+                                "Just leave it to me! I'll manage somehow."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なんとかならぁ。"
+                                ""
                             ]
                         },
                         {
@@ -9916,7 +9916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "せーのっ！"
+                                "Ready, set, go!"
                             ]
                         },
                         {
@@ -10054,25 +10054,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだよ、襲ってこないじゃんか。"
+                                "What's going on? They're not attacking. What's\nhappening?"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どーなってんだぁ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -10092,7 +10092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こいつらまだ下にうようよしてやがるのに。"
+                                "Those guys are still lurking below."
                             ]
                         },
                         {
@@ -10109,14 +10109,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぅぅ・・ひどい・・なんで私だけ・・・。"
+                                "Ugh... This is terrible... Why only me... And\nthey've even tangled around my feet..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しかも足の先まで絡みつかれた・・。"
+                                ""
                             ]
                         },
                         {
@@ -10133,14 +10133,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まさか植物のくせにオンナ好きなのかぁ？"
+                                "I can't believe even though you're a plant, you're\ninto women? How strange."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "変なの。"
+                                ""
                             ]
                         },
                         {
@@ -10208,7 +10208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これがそうか、おっしゃ。"
+                                "So this is it, huh?"
                             ]
                         },
                         {
@@ -10263,7 +10263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんくらいあればいいか。"
+                                "Is this enough?"
                             ]
                         },
                         {
@@ -10384,7 +10384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほら、とってきたぜー。"
+                                "Here, I brought it."
                             ]
                         },
                         {
@@ -10418,49 +10418,11 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがと、助かったわ。"
+                                "Thanks, I appreciate it. With this, I can take\nanother step forward."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これでまた一歩前進。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "kuroto",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おっし、これで用事は済んだな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -10480,7 +10442,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さっさとこんなとこ出ちゃおーぜ！"
+                                "Alright, with this, the task is done!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "kuroto",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Let's quickly get out of here!"
                             ]
                         },
                         {
@@ -11715,14 +11715,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ああっ・・・よかった・・"
+                                "Ah... I'm relieved... The plant-like creature is\nmoving away..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "植物型生物が離れていく・・。"
+                                ""
                             ]
                         },
                         {
@@ -11739,7 +11739,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よくわからないけど・・助かったみたい・・。"
+                                "I don't really understand, but... it seems like I\nwas saved..."
                             ]
                         },
                         {

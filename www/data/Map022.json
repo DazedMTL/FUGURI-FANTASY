@@ -1405,7 +1405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこへ行きますか？"
+                                "Where are you going?"
                             ]
                         },
                         {
@@ -1797,7 +1797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気になってまたついて来ちったけど・・・。"
+                                "I couldn't help but follow along again..."
                             ]
                         },
                         {
@@ -1814,7 +1814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんなへんぴな洞窟に何の用事があるんだ？"
+                                "What business do you have in such a strange cave?"
                             ]
                         },
                         {
@@ -1831,14 +1831,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "秘術師の命令で？"
+                                "Is it because of the orders from the sorcerer? Is\nthere something ahead?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何かこの先にあるんか？"
+                                ""
                             ]
                         },
                         {
@@ -2025,49 +2025,11 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それにしたって"
+                                "But even so, it would be troublesome if we were to\nencounter any danger in a place like this..."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "万が一こんなとこで危険な目に遭ったら大変だし・・・。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "kuroto",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うーん、気になる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -2087,7 +2049,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こっそりついていこう・・・。"
+                                "Hmm, I'm curious!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "kuroto",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Let's secretly follow along..."
                             ]
                         },
                         {
@@ -2369,7 +2369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それにしても・・・なんでクロトここに？"
+                                "By the way... why is Clot here?"
                             ]
                         },
                         {
@@ -2386,38 +2386,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん・・・ああ！"
+                                "Hmm... Ah! No, it's nothing, just that..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いや、なんだ、その～～～。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "kuroto",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "晩飯のキノコを探しに来たら迷っちまったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あはは・・・。"
+                                ""
                             ]
                         },
                         {
@@ -2434,14 +2410,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ま、いいじゃんか！"
+                                "I came here to search for mushrooms for dinner,\nbut I got lost. Ahaha..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "kuroto",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "必要なもん手に入ったし、お前も助けられたし！"
+                                "Well, it's fine, isn't it? We got what we needed\nand I was able to help you too!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2458,7 +2458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そだね・・ありがと！"
+                                "That's right... Thank you!"
                             ]
                         },
                         {
@@ -2475,7 +2475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ、じゃあ一緒に町までかえろっか？"
+                                "Phew, shall we go back to town together?"
                             ]
                         },
                         {
@@ -2508,14 +2508,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、これから・・・秘術師さんの所に"
+                                "Ah, from now on... I have to deliver this to the\nsorcerer's place..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "これ、届けないといけないから・・・。"
+                                ""
                             ]
                         },
                         {
@@ -2532,14 +2532,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先に帰ってて！"
+                                "Go back ahead! I'm sorry."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ごめんね。"
+                                ""
                             ]
                         },
                         {
@@ -2565,14 +2565,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そっか・・・"
+                                "I see... Well, I guess there's no helping it then."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "じゃあ仕方ないよな。"
+                                ""
                             ]
                         },
                         {
@@ -2589,7 +2589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気をつけてな！"
+                                "Be careful!"
                             ]
                         },
                         {
@@ -2806,7 +2806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほんとに・・ありがと。"
+                                "Thank you... really."
                             ]
                         },
                         {
@@ -2823,7 +2823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お、おう・・・気にすんなよ！"
+                                "Oh, um... Don't worry about it!"
                             ]
                         },
                         {
@@ -2994,7 +2994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うーん、なんだろなぁ・・・。"
+                                "Hmm, I wonder..."
                             ]
                         },
                         {
@@ -3011,63 +3011,25 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "順調ならいいけど・・・。"
+                                "It's fine if everything goes smoothly..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "kuroto",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "秘術師の話をすると、なんだか表情が曇るのがなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -3087,14 +3049,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだかなぁ。"
+                                "Whenever I talk about the sorcerer, their\nexpression seems to darken."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "気になるなぁ。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3111,7 +3087,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんでもなきゃいいんだけど・・。"
+                                "I wonder... It's bothering me."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3128,14 +3111,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うーん・・・"
+                                "I wish it was nothing..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "kuroto",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気のせいかなぁ。"
+                                "Hmm... I wonder if it's just my imagination."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
